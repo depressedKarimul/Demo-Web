@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor Zakirul Alam Bhuiyan - Trustworthy AI & Cybersecurity</title>
+    <meta name="description"
+        content="Academic website of Professor Zakirul Alam Bhuiyan. Computer Science — Cybersecurity, Trustworthy AI/ML, Wireless Sensing, and Secure Systems.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Abstract Canvas Background (Neural/Wireless design) -->
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="#home" class="logo">ZM <span>Bhuiyan</span></a>
+            <ul class="nav-links">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#research">Research & Students</a></li>
+                <li><a href="#publications">Publications</a></li>
+                <li><a href="#teaching">Teaching</a></li>
+                <li><a href="#projects">Project/Lab</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="mobile-menu-btn" aria-label="Toggle Menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <div class="hero-text">
+                <h1 class="glitch" data-text="Professor Zakirul Alam Bhuiyan">Professor Zakirul Alam Bhuiyan</h1>
+                <h2 class="tagline">Computer Science &mdash; Cybersecurity & Trustworthy AI/ML</h2>
+                <p class="bio-summary">
+                    Exploring the frontiers of secure systems, post-quantum cryptography, wireless sensing, and
+                    data-driven dependability.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn primary-btn">Contact Me</a>
+                    <a href="#publications" class="btn secondary-btn">View Publications</a>
+                </div>
+                <div class="news-box">
+                    <span class="news-badge">News</span>
+                    <p>New PhD position available! Fully funded studentship for Trustworthy AI. <a
+                            href="#services">Learn more</a></p>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="img-wrapper">
+                    <img src="prof_photo.png" alt="Professor Zakirul Alam Bhuiyan">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about section-alt">
+        <div class="container">
+            <h2 class="section-title">About Me</h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    <h3>Short Bio</h3>
+                    <p>
+                        I am dedicated to advancing research in the fields of cybersecurity, trustworthy artificial
+                        intelligence, and dependable systems. My work focuses on building resilient architectures
+                        capable of withstanding emerging threats, including post-quantum paradigms and pervasive sensing
+                        risks. I lead the DependSys Lab, where we investigate theoretical and applied dimensions of
+                        secure computing.
+                    </p>
+                </div>
+                <div class="lab-highlight">
+                    <h3>DependSys Lab</h3>
+                    <p>
+                        Our lab pioneers solutions in Data-Driven Dependability and Secure Wireless Sensing. We are a
+                        collaborative environment of researchers dedicated to high-impact innovations in AI security.
+                    </p>
+                    <a href="#projects" class="inline-link">Explore Lab Projects &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research & Students Section -->
+    <section id="research" class="research container">
+        <h2 class="section-title">Research & Students</h2>
+
+        <div class="grid-layout">
+            <div class="card research-interests">
+                <h3>Research Interests</h3>
+                <ul class="custom-list">
+                    <li>Cybersecurity & Privacy | Data-Driven Dependability</li>
+                    <li>Trustworthy AI / Machine Learning</li>
+                    <li>Wireless Sensing & Authentication</li>
+                    <li>Data Mining & Behavioral Modeling</li>
+                    <li>Applied Machine Learning for Security, Systems & HCI</li>
+                    <li>Post-Quantum Cryptography (PQC) | Secure Quantum Machine Learning (SQML)</li>
+                </ul>
+            </div>
+
+            <div class="card students-card">
+                <h3>Students</h3>
+                <div class="student-category">
+                    <h4>PhD Students</h4>
+                    <p>Details of current PhD students investigating advanced security protocols and AI models.</p>
+                </div>
+                <div class="student-category">
+                    <h4>Co-supervising</h4>
+                    <p>Collaborating with talented international students on cross-disciplinary cyber-physical security.
+                    </p>
+                </div>
+                <div class="student-category">
+                    <h4>Graduated</h4>
+                    <p>Alumni who have moved onto successful roles in academia and industry.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section id="publications" class="publications section-alt">
+        <div class="container">
+            <h2 class="section-title">Publications</h2>
+            <p class="section-subtitle">Selected works in journals and top-tier conferences.</p>
+
+            <div class="pub-topics">
+                <div class="topic-tabs">
+                    <button class="tab-btn active" data-target="all">All</button>
+                    <button class="tab-btn" data-target="cyber">Cybersecurity</button>
+                    <button class="tab-btn" data-target="ai">Trustworthy AI/ML</button>
+                    <button class="tab-btn" data-target="wireless">Wireless Sensing</button>
+                </div>
+
+                <div class="pub-list">
+                    <!-- Journals -->
+                    <h4>Publications in Journals/Transactions</h4>
+                    <div class="pub-item cyber">
+                        <span class="pub-year">2026</span>
+                        <div class="pub-details">
+                            <p class="pub-authors">Author names,</p>
+                            <p class="pub-title">"Publication Titles,"</p>
+                            <p class="pub-venue">Journal/Transaction Name, Vol. X (No. X): PageX-PageY. [Any Comment]
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Conferences -->
+                    <h4>Publications in Conferences</h4>
+                    <div class="pub-item ai">
+                        <span class="pub-year">2026</span>
+                        <div class="pub-details">
+                            <p class="pub-authors">Author names,</p>
+                            <p class="pub-title">"Titles,"</p>
+                            <p class="pub-venue">Conference Name/Title, Vol. X (No. X): PageX-PageY. [Any Comment]</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Teaching Section -->
+    <section id="teaching" class="teaching container">
+        <h2 class="section-title">Teaching</h2>
+        <div class="teaching-grid">
+            <div class="teaching-item">
+                <div class="icon-box"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
+                    </svg></div>
+                <h3>Cybersecurity & Privacy</h3>
+                <p>Advanced concepts in network security, data protection, and modern cryptographic schemas.</p>
+            </div>
+            <div class="teaching-item">
+                <div class="icon-box"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <circle cx="12" cy="12" r="10" />
+                        <path d="M12 16v-4M12 8h.01" />
+                    </svg></div>
+                <h3>Data Science and Security</h3>
+                <p>Curriculum detailing the intersection of big data analytics and threat detection mechanisms.</p>
+            </div>
+            <div class="teaching-item">
+                <div class="icon-box"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        stroke-width="2">
+                        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+                        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+                    </svg></div>
+                <h3>Core CS Courses</h3>
+                <p>Fundamental computer science paradigms, algorithms, and system architecture.</p>
+            </div>
+        </div>
+        <div class="teaching-resources">
+            <a href="#" class="btn secondary-btn">Teaching Philosophy</a>
+            <a href="#" class="btn secondary-btn">Student Resources</a>
+        </div>
+    </section>
+
+    <!-- Project / Lab Section -->
+    <section id="projects" class="projects section-alt">
+        <div class="container">
+            <h2 class="section-title">Project & Lab</h2>
+            <div class="lab-overview">
+                <h3>Overview of Project Works</h3>
+                <ul class="custom-tag-list">
+                    <li>Cybersecurity & Privacy</li>
+                    <li>Trustworthy AI / ML</li>
+                    <li>Wireless Sensing (Wi-Fi CSI)</li>
+                    <li>IoT / CPS Security</li>
+                    <li>Post-Quantum Security & QML</li>
+                </ul>
+            </div>
+            <div class="lab-visuals">
+                <div class="placeholder-box">
+                    <span>Lab Photos</span>
+                </div>
+                <div class="placeholder-box">
+                    <span>Posters / Demos</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Service & Leadership Section -->
+    <section id="services" class="services container">
+        <h2 class="section-title">Service, Leadership & Openings</h2>
+        <div class="services-wrapper">
+            <div class="service-block">
+                <h3>Leadership Roles</h3>
+                <ul>
+                    <li><strong>Department Associate Chair</strong> - Managing departmental strategic planning and
+                        curriculum.</li>
+                    <li><strong>Director of Undergraduate Studies</strong> - Overseeing undergraduate computing degrees.
+                    </li>
+                </ul>
+            </div>
+            <div class="service-block">
+                <h3>Committee & Conferences</h3>
+                <ul>
+                    <li>Conference Service & Organization</li>
+                    <li>Editorial Boards Member</li>
+                    <li>Outreach Initiatives</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="openings-card hero-glass">
+            <h3>Open Positions</h3>
+            <div class="opening-items">
+                <div class="opening">
+                    <h4>Fully Funded PhD Studentship</h4>
+                    <p>University / Dept Faculty Position for students passionate about Cybersecurity and AI.</p>
+                </div>
+                <div class="opening">
+                    <h4>MS/Undergrad Research Opportunities</h4>
+                    <p>Voluntary and supported roles available across ongoing lab projects.</p>
+                </div>
+            </div>
+            <a href="#contact" class="btn primary-btn mt-4">Apply Now</a>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section-alt">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h3>Get In Touch</h3>
+                    <p>If you are interested in any of the opportunities or collaborations, please reach out.</p>
+
+                    <div class="office-address">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+                            <circle cx="12" cy="10" r="3" />
+                        </svg>
+                        <p>Office Address:<br>Department of Computer Science<br>University Campus</p>
+                    </div>
+
+                    <div class="social-links">
+                        <a href="#" target="_blank" title="LinkedIn">in</a>
+                        <a href="#" target="_blank" title="Google Scholar">gs</a>
+                        <a href="#" target="_blank" title="Twitter">tw</a>
+                        <a href="#" target="_blank" title="GitHub">gh</a>
+                    </div>
+                </div>
+
+                <form class="contact-form" onsubmit="event.preventDefault()">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" required placeholder="Professor John Doe">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" required placeholder="john@university.edu">
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject</label>
+                        <input type="text" id="subject" required placeholder="PhD Position Inquiry">
+                    </div>
+                    <div class="form-group">
+                        <label for="content">Message</label>
+                        <textarea id="content" rows="4" required placeholder="Hello Professor..."></textarea>
+                    </div>
+                    <button type="submit" class="btn primary-btn submit-btn">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <p>&copy; 2026 Professor Zakirul Alam Bhuiyan. All rights reserved.</p>
+            <p>Designed with a focus on Cybersecurity & AI.</p>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
