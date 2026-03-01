@@ -158,21 +158,21 @@ nav {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding-top: 80px; 
+    padding-top: 120px; 
 }
 
 .hero-content {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2rem;
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(320px, 0.85fr);
     align-items: center;
-    justify-content: space-between;
-    gap: 4rem;
+    gap: clamp(2rem, 4vw, 4rem);
 }
 
 .hero-text {
-    flex: 1;
+    max-width: 680px;
 }
 
 .glitch {
@@ -244,6 +244,10 @@ nav {
     gap: 1rem;
 }
 
+.news-box p {
+    margin: 0;
+}
+
 .news-badge {
     background: var(--acc-color);
     color: #0b1120;
@@ -255,14 +259,14 @@ nav {
 }
 
 .hero-image {
-    flex: 1;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    align-self: center;
 }
 
 .img-wrapper {
-    width: 350px;
-    height: 350px;
+    width: min(100%, 390px);
+    aspect-ratio: 1 / 1;
     border-radius: 30px;
     overflow: hidden;
     position: relative;
@@ -793,6 +797,29 @@ footer {
     color: #ffffff;
 }
 
+[data-theme="light"] .news-box {
+    background: #ffffff;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-left: 4px solid var(--acc-color);
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+
+[data-theme="light"] .contact-form #name,
+[data-theme="light"] .contact-form #email,
+[data-theme="light"] .contact-form #subject,
+[data-theme="light"] .contact-form #content {
+    background: #ffffff;
+    color: #000000;
+    border-color: rgba(15, 23, 42, 0.2);
+}
+
+[data-theme="light"] .contact-form #name::placeholder,
+[data-theme="light"] .contact-form #email::placeholder,
+[data-theme="light"] .contact-form #subject::placeholder,
+[data-theme="light"] .contact-form #content::placeholder {
+    color: #475569;
+}
+
 [data-theme="light"] footer {
     background: #f1f5f9;
 }
@@ -864,3 +891,5 @@ footer {
     opacity: 1;
     transform: translate(0, 0);
 }
+
+

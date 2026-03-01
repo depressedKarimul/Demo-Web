@@ -41,7 +41,7 @@ tabBtns.forEach(btn => {
         pubItems.forEach(item => {
             if (filter === 'all' || item.classList.contains(filter)) {
                 item.style.display = 'flex';
-                // Trigger a small animation
+                // Keep publication filtering animation subtle and consistent.
                 item.style.opacity = '0';
                 setTimeout(() => {
                     item.style.transition = 'opacity 0.4s';
