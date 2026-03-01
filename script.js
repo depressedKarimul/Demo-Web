@@ -2,9 +2,11 @@
 const mobileBtn = document.querySelector('.mobile-menu-btn');
 const navLinks = document.querySelector('.nav-links');
 
-mobileBtn.addEventListener('click', () => {
-    navLinks.classList.toggle('active');
-});
+if (mobileBtn && navLinks) {
+    mobileBtn.addEventListener('click', () => {
+        navLinks.classList.toggle('active');
+    });
+}
 
 // Close mobile menu when a link is clicked
 document.querySelectorAll('.nav-links li a').forEach(link => {
@@ -24,6 +26,51 @@ window.addEventListener('scroll', () => {
 });
 
 // Highlight active section on scroll removed as we are using separate pages now
+
+function initShared3DBackground() {
+    if (document.querySelector('.bg-3d-scene')) {
+        return;
+    }
+
+    const scene = document.createElement('div');
+    scene.className = 'bg-3d-scene';
+    scene.innerHTML = `
+        <span class="bg-orb orb-a"></span>
+        <span class="bg-orb orb-b"></span>
+        <span class="bg-orb orb-c"></span>
+    `;
+    document.body.prepend(scene);
+}
+
+function initTilt3D() {
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const isTouch = window.matchMedia('(hover: none), (pointer: coarse)').matches;
+    if (reduceMotion || isTouch) {
+        return;
+    }
+
+    const tiltTargets = document.querySelectorAll(
+        '.img-wrapper, .card, .teaching-item, .pub-item, .contact-form, .lab-highlight, .hero-glass, .service-block, .lab-visuals > div'
+    );
+
+    tiltTargets.forEach(target => {
+        target.classList.add('tilt-3d');
+
+        target.addEventListener('mousemove', (event) => {
+            const rect = target.getBoundingClientRect();
+            const px = (event.clientX - rect.left) / rect.width;
+            const py = (event.clientY - rect.top) / rect.height;
+            const rotateY = (px - 0.5) * 10;
+            const rotateX = (0.5 - py) * 10;
+
+            target.style.transform = `perspective(1100px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+        });
+
+        target.addEventListener('mouseleave', () => {
+            target.style.transform = '';
+        });
+    });
+}
 
 // Publications Tabs Filtering
 const tabBtns = document.querySelectorAll('.tab-btn');
@@ -265,3 +312,6 @@ const revealObserver = new IntersectionObserver(revealCallback, {
 });
 
 revealElements.forEach(el => revealObserver.observe(el));
+
+initShared3DBackground();
+initTilt3D();
