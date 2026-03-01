@@ -26,7 +26,7 @@
             <ul class="nav-links">
                 <li><a href="index.html" >Home</a></li>
                 <li><a href="research.html">Research & Students</a></li>
-                <li><a href="publications.html">Publications</a></li>
+                <li><a href="publications.html" class="active">Publications</a></li>
                 <li><a href="teaching.html">Teaching</a></li>
                 <li><a href="projects.html">Project/Lab</a></li>
                 <li><a href="services.html">Services</a></li>
@@ -47,53 +47,51 @@
     </nav>
 
     <!-- Hero Section -->
-    <section id="home" class="hero">
-        <div class="hero-content">
-            <div class="hero-text slide-right">
-                <h1 class="glitch" data-text="Professor Md Zakirul Alam Bhuiyan, PhD, SMIEEE">Professor Md Zakirul Alam Bhuiyan, PhD, SMIEEE</h1>
-                <h2 class="tagline">Computer Science &mdash; Cybersecurity & Trustworthy AI/ML</h2>
-                <p class="bio-summary">
-                    Exploring the frontiers of secure systems, post-quantum cryptography, wireless sensing, and data-driven dependability. Author of 120+ top-tier publications with an h-index of 64.
-                </p>
-                <div class="hero-buttons">
-                    <a href="contact.html" class="btn primary-btn">Contact Me</a>
-                    <a href="publications.html" class="btn secondary-btn">View Publications</a>
-                </div>
-                <div class="news-box">
-                    <span class="news-badge">News</span>
-                    <p>New PhD position available! Fully funded studentship for Trustworthy AI. <a
-                            href="services.html">Learn more</a></p>
-                </div>
-            </div>
-            <div class="hero-image slide-left">
-                <div class="img-wrapper">
-                    <img src="prof_photo.png" alt="Professor Zakirul Alam Bhuiyan">
-                </div>
-            </div>
-        </div>
-    </section>
-
-<section id="about" class="about section-alt">
+    <section id="publications" class="publications section-alt">
         <div class="container">
-            <h2 class="section-title">About Me</h2>
-            <div class="about-grid">
-                <div class="about-text slide-up">
-                    <h3>Short Bio</h3>
-                    <p>
-                        I am dedicated to advancing research in the fields of cybersecurity, trustworthy artificial
-                        intelligence, and dependable systems. My work focuses on building resilient architectures
-                        capable of withstanding emerging threats, including post-quantum paradigms and pervasive sensing
-                        risks. I lead the DependSys Lab, where we investigate theoretical and applied dimensions of
-                        secure computing.
-                    </p>
+            <h2 class="section-title">Publications</h2>
+            <p class="section-subtitle">Selected works in journals and top-tier conferences.</p>
+
+            <div class="pub-topics fade-in">
+                <div class="topic-tabs">
+                    <button class="tab-btn active" data-target="all">All</button>
+                    <button class="tab-btn" data-target="cyber">Cybersecurity</button>
+                    <button class="tab-btn" data-target="ai">Trustworthy AI/ML</button>
+                    <button class="tab-btn" data-target="wireless">Wireless Sensing</button>
                 </div>
-                <div class="lab-highlight slide-up">
-                    <h3>DependSys Lab</h3>
-                    <p>
-                        Our lab pioneers solutions in Data-Driven Dependability and Secure Wireless Sensing. We are a
-                        collaborative environment of researchers dedicated to high-impact innovations in AI security.
-                    </p>
-                    <a href="projects.html" class="inline-link">Explore Lab Projects &rarr;</a>
+
+                <div class="pub-list">
+                    <!-- Journals -->
+                    <h4>Publications in Journals/Transactions</h4>
+                    <div class="pub-item cyber">
+                        <span class="pub-year">2026</span>
+                        <div class="pub-details">
+                            <p class="pub-authors">Author names,</p>
+                            <p class="pub-title">"Publication Titles,"</p>
+                            <p class="pub-venue">Journal/Transaction Name, Vol. X (No. X): PageX-PageY. [Any Comment]
+                            </p>
+                        </div>
+                    </div>
+                    <!-- Conferences -->
+                    <h4>Publications in Conferences</h4>
+                    <div class="pub-item ai">
+                        <span class="pub-year">2026</span>
+                        <div class="pub-details">
+                            <p class="pub-authors">Author names,</p>
+                            <p class="pub-title">"Titles,"</p>
+                            <p class="pub-venue">Conference Name/Title, Vol. X (No. X): PageX-PageY. [Any Comment]</p>
+                        </div>
+                    </div>
+                    <!-- Books & Magazines -->
+                    <h4>Books & Magazines</h4>
+                    <div class="pub-item cyber">
+                        <span class="pub-year">2026</span>
+                        <div class="pub-details">
+                            <p class="pub-authors">Author names,</p>
+                            <p class="pub-title">"Book / Magazine Title,"</p>
+                            <p class="pub-venue">Publisher / Mag Name. [Any Comment]</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -17,36 +17,13 @@ document.querySelectorAll('.nav-links li a').forEach(link => {
 window.addEventListener('scroll', () => {
     const nav = document.querySelector('nav');
     if (window.scrollY > 50) {
-        nav.style.backgroundColor = 'rgba(11, 17, 32, 0.95)';
-        nav.style.boxShadow = '0 4px 30px rgba(0, 0, 0, 0.5)';
+        nav.style.boxShadow = '0 4px 30px rgba(0, 0, 0, 0.1)';
     } else {
-        nav.style.backgroundColor = 'rgba(15, 23, 42, 0.7)';
         nav.style.boxShadow = 'none';
     }
 });
 
-// Highlight active section on scroll
-const sections = document.querySelectorAll('section');
-const navItems = document.querySelectorAll('.nav-links li a');
-
-window.addEventListener('scroll', () => {
-    let current = '';
-
-    sections.forEach(section => {
-        const sectionTop = section.offsetTop;
-        const sectionHeight = section.clientHeight;
-        if (pageYOffset >= (sectionTop - 200)) {
-            current = section.getAttribute('id');
-        }
-    });
-
-    navItems.forEach(li => {
-        li.classList.remove('active');
-        if (li.getAttribute('href').includes(current)) {
-            li.classList.add('active');
-        }
-    });
-});
+// Highlight active section on scroll removed as we are using separate pages now
 
 // Publications Tabs Filtering
 const tabBtns = document.querySelectorAll('.tab-btn');
@@ -121,7 +98,7 @@ class Particle {
     draw() {
         ctx.beginPath();
         ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2, false);
-        ctx.fillStyle = '#38bdf8';
+        ctx.fillStyle = this.color;
         ctx.fill();
     }
     // Check particle position, check mouse position, move the particle, draw the particle
@@ -170,7 +147,8 @@ function init() {
         let y = (Math.random() * ((innerHeight - size * 2) - (size * 2)) + size * 2);
         let directionX = (Math.random() * 1) - 0.5;
         let directionY = (Math.random() * 1) - 0.5;
-        let color = '#38bdf8';
+        const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+        let color = isLight ? '#0ea5e9' : '#38bdf8';
 
         particlesArray.push(new Particle(x, y, directionX, directionY, size, color));
     }
@@ -185,7 +163,9 @@ function connect() {
                             ((particlesArray[a].y - particlesArray[b].y) * (particlesArray[a].y - particlesArray[b].y));
             if (distance < (canvas.width / 7) * (canvas.height / 7)) {
                 opacityValue = 1 - (distance / 20000);
-                ctx.strokeStyle = 'rgba(56, 189, 248,' + opacityValue + ')';
+                const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+                const rgb = isLight ? '14, 165, 233' : '56, 189, 248';
+                ctx.strokeStyle = `rgba(${rgb},${opacityValue})`;
                 ctx.lineWidth = 1;
                 ctx.beginPath();
                 ctx.moveTo(particlesArray[a].x, particlesArray[a].y);
@@ -239,3 +219,49 @@ if (form) {
 
 init();
 animate();
+
+
+// Theme Toggle Logic
+const currentTheme = localStorage.getItem('theme');
+if (currentTheme) {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+}
+
+const themeToggleBtns = document.querySelectorAll('.theme-toggle');
+themeToggleBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+        let theme = 'dark';
+        if (document.documentElement.getAttribute('data-theme') === 'light') {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.setItem('theme', 'dark');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            theme = 'light';
+        }
+        
+        // Restart particle canvas to update colors based on the theme
+        if (typeof init === 'function') {
+            init();
+        }
+    });
+});
+
+// Scroll Reveal Animations
+const revealElements = document.querySelectorAll('.fade-in, .slide-up, .slide-left, .slide-right');
+
+const revealCallback = function(entries, observer) {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            observer.unobserve(entry.target);
+        }
+    });
+};
+
+const revealObserver = new IntersectionObserver(revealCallback, {
+    root: null,
+    threshold: 0.15,
+});
+
+revealElements.forEach(el => revealObserver.observe(el));

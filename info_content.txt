@@ -1,0 +1,541 @@
+About 
+Zakirul Alam Bhuiyan, PhD, SMIEEE
+Associate Professor in Computer Science (Cybersecurity)
+Department of Computer and Information Sciences, Fordham University
+Associate Chair | Director of Undergraduate Studies (RH), Department of Computer and Information Sciences (CIS)Cybersecurity Faculty, Fordham Center for Cybersecurity (FCC)Director, DependSys Lab (Fordham Dependable and Secure System Lab)Member, Fordham Urban Consortium (Smart City)
+Office & Contact:
+Rose Hill Campus: JMH 334, 441 E Fordham Road, Bronx NY, 10458,   Phone: (718) 817- 0582;
+Lincoln Center Campus: 113 W 60th St, Manhattan, NY 10023
+Email: md@fordham.edu, zakirulalam@gmail.com
+LInks: Google Scholar (h-index: 64) II DBLP II
+Research Interests
+Cybersecurity & Privacy | Data-Driven Dependability
+Trustworthy AI / Machine Learning
+Wireless Sensing & Authentication
+Data Mining & Behavioral Modeling
+Wireless Sensing & Authentication
+Post-Quantum Cryptography (PQC) | Secure Quantum Machine Learning (SQML)
+Edge Intelligence, Cloud, and Big Data Computing
+Emerging IoT/CPS Applications: healthcare monitoring, event monitoring, structural health monitoring, HCI, and Wi-Fi Applications
+Publications (250+)
+100+ SCI journal/transaction papers
+25+ ESI "Highly Cited papers" and 5 "Hot Papers" in Computer Sciences
+80+ JCR Q1 Papers
+65+ Prestigious IEEE/ACM transactions/Magazines
+COMMAG, TDSC, TC, TPDS, TKDE, TII, TAAS, TOSN, CS, IoT-J, T-ITS, INS, JNCA, FGCS, JPDC, COMNET, TSUSC, TETC, TBD, CPS, COSE, COMM, and so on
+100+ Conference papers
+30+ Top Conference Papers
+SECON, INFOCOM, DSN, SRDS, DCOSS, MASS, ICC, ICCCN, Globeom, PRDC, DASC, Sarnoff, TrustCom, HPCC, ISPA, EUC, and so on
+7 Best papers awards
+Awards/Honors (30+):
+***** “ IEEE TCSC Award for Excellence | IEEE TCSC MCR Award 2024” ***** by IEEE Technical Committee on Scalable Computing (TCSC) Award for Excellence in Scalable Computing (Middle Career Researcher).
+***** “ScholarGPS (Highly Ranked Scholars)” ***** by ScholarGPS (The outstanding quality of scholarly contributions led to the name being in the top 0.05% of all scholars worldwide)
+***** “Highly Cited Researcher” ***** One of the world’s most influential researchers (0.1%) across multi-disciplines, including computer science, by Web of Science
+***** “The Rising Star of Science in the World” ***** Ranked 81 in United States and 531 in the World by Research.com (2024, 2023, 2022)
+***** “Top 2% Scientists of the World (2025, 2024-2020)” ***** Ranked by ELSEVIER and Stanford University
+Recognized 25"ESI Highly Cited Papers" in Computer Science field by WoS (as of 2020/05 and 2020/05)
+Recognized 5 "Hot Papers" in Computer Science field by WoS (as of 2020/05 and 2020/05)
+IEEE Outstanding Leadership Award (2020)
+Faculty Fellowship (2020)
+Best Paper Award, DependSys 2019 (Springer)
+IEEE Senior Member (2017)
+IEEE TCSC Early Career Researcher (2016-2017)
+IEEE Outstanding Service Award, 2019
+IEEE Outstanding Leadership Awards, 2018, 2019
+Best Paper Award, IEEE MASS 2016
+Journal Editor/Guest Editor (25+):
+IEEE Transactions on Industrial Informatics (TII), Associate Editor
+Journal of Ambient Intelligence & Humanized Computing (AIHC) Associate Editor
+Human-centric Computing and Information Sciences (HCIS) Associate Editor
+Journal of Interconnection Networks • Advisory Board Member
+Transactions on Emerging Telecommunications Technologies, Associate Editor
+PAST: || ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM) , Lead Guest Editor || IEEE Internet of Things Journal (IoT-J) , Lead Guest Editor || Journal of Network and Computer Applications , Lead Guest Editor [Call for Papers] || Future Generation Computer Systems, Lead Guest Editor [Call for Papers] || Information Sciences – Elsevier, Lead Guest Editor || ACM Transactions on Cyber-Physical Systems, Lead Guest | Associate Editor || IEEE Transactions on Big Data, Lead Guest/Associate Editor IEEE ACCESS , Associate Editor | Lead Guest Editor , and so on Lead Guest/Associate Editor
+Conference Organization (50+):
+IEEE DASC 2024 (Boracay Island, Malay, Philippines), General Chair. [Call for Paper]
+IEEE TrustCom 2023 (Exeter, UK), Program Chair.
+AidTSP 2023 [IEEE INFOCOM 2023 Workshop] (New York, USA), Program Chair.
+IEEE TrustCom 2022 (Wuhan, China), Program Chair.
+IEEE DASC 2021 (Calgary, Canada), General Chair.
+CAI 2021 (NY, USA). General Chair
+IEEE ISPA 2021 (NY, USA). Program Chair
+UbiSec 2021 (Guangzhou, China). OC Memberr
+IEEE DASC 2020, IEEE iSCI 2020, IEEE iSCI 2019, BigTrust 2017, SCS 2017, General Chair/CoChair.
+IEEE TrustCom 2020 (China), IEEE ICCCN 2020 (USA), SpaCC 2019 (USA), DependSys 2019 (China), IEEE Smart World Congress 2018 (China), IEEE I-SPAN 2018 (China), IEEE CPSCom-2019 (US), IEEE DASC 2017 (New Zealand) , ICACCI 2017 (India). Program Chair/CoChair
+CyberSciTech 2017, IEEE CSCloud 2016, IEEE CPSCom 2017 (UK), GPC-2017 (italy), SGIoT 2017 (Canada), IEEE CIT 2016 (Finland). Workshop/Publicity CoChair
+IEEE INFOCOM (2019, 2018), GlobeCom, WCNC, ICC, TrustCom. TPC memeber
+IEEE HITC (Hyper-Intelligence Technical Committee), Planning Coordinator and Technical Board Member
+Seminars/Panels/Keynotes/Talks (30+)
+2023 International Conference on the Cooperation and Integration of Industry, Education, Research, and Application, China, Keynote Speaker
+EAI ICECI 2023 - 4th International Conference on Edge Computing and IoT: Systems, Management and Security, China, Keynote Speaker
+International Conference on Intelligent Technologies, Systems and Services for Internet of Everything (ITSS-IoE 2021), Yemen Keynote Speaker
+International Conference on Emerging Technology in Computing, Communication and Electronics (ETCCE 2020), Dhaka, Keynote Speaker
+IEEE iSCI 2018, Invited Speaker
+IEEE UIC 2018, Panel Speaker
+IEEE ISPA2017/IUCC2017, Keynote Speaker
+SpaCCS 2017, Springer, Panelist
+Invited Speaker at Bangladesh University of Engineering and Technology (BUET), Monash University Malaysia, Hunan University (China), Hunan University of Technology (China), Dhaka University (Bangladesh), Baoji University of Arts and Sciences (BUAS, China), Carnegie Mellon University in Qatar (CMU-Q), Hunan University of Science & Technology (China), Southeast Univerity (Bangladesh), Beihang University (China), Arab Emirate University (UAE), Huaqiao University (China), University of Liberal Arts of Bangladesh, Hunan Normal University (China), University Malaysia Pahang (Malaysia), Nanyang Technological University (Singapore), Guangzhou University (China)
+Selected 20 Publications:
+Yang Xu, Md Zakirul Alam Bhuiyan, Tian Wang, Xiaokang Zhou, Amit Kumar Singh, “C-FDRL: Context-Aware Privacy-Preserving Offloading Through Federated Deep Reinforcement Learning in Cloud-Enabled IoT,” IEEE Transactions on Industrial Informatics (TII) 2017 (Corresponding Author)[JCR Q1]
+Zhaoyang Wang, Song Wang, Zakirul Alam Bhuiyan, Jiping Xu, Yanzhu Hu, “Cooperative Location-Sensing Network Based on Vehicular Communication Security Against Attacks,” IEEE Transactions on Transportation Systems (ITS), 2023(Corresponding Author)[JCR Q1]
+Md Zakirul Alam Bhuiyan#, Hai Tao#, Md Arafatur Rahman, Tian Wang, Jie Wu, Sinan Q. Salih, Yafeng Li, and Thaier Hayajneh, “TrustData: Trustworthy and Secured Data Collection for Event Detection in Industrial Cyber-Physical System,” IEEE Transactions on Industrial Informatics (TII), 2020 [JCR Q1]
+Md Zakirul Alam Bhuiyan, H. Tao, and A. Abdalla, M. Hassan, J. Jain, and T. Hayajneh, “Secured Data Collection with Hardware-based Ciphers for IoT-based Healthcare,” IEEE Internet of Things (IoT) Journal, 2019 [JCR Q1]
+Md Zakirul Alam Bhuiyan, G. Wang, J. Wu, and J. Cao “Dependable Structural Health Monitoring Using Wireless Sensor Networks,” IEEE Transactions on Dependable and Secure Systems (TDSC), 2017 [SCI IF: 6.04, JCR Q1] [ESI Highly Cited Paper, As of Jan 2018]
+Md Zakirul Alam Bhuiyan, G. Wang, J. Cao, and J. Wu, “Deploying Wireless Sensor Networks with Fault-Tolerance for Structural Health Monitoring,” IEEE Transactions on Computers (TC), 2015 [SCI IF:2.92, JCR Q1] [ESI Highly Cited Paper, As of Jan 2018]
+G. Wang, Md Zakirul Alam Bhuiyan, J. Cao, and J. Wu, "Detecting Movements of a Target Using Face Tracking in Wireless Sensor Networks," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2014. (Corresponding Author) [JCR Q1]
+Md Zakirul Alam Bhuiyan, Sy-Yen Kuo, Damian Lyons, Zili Shao, “Dependability in Cyber-Physical Systems and Applications,” ACM Transaction on Cyber_physical Systems (TCPS), 2019
+Md Zakirul Alam Bhuiyan, J. Wu, G. Wang, and M. Hassan, “e-Sampling: Event-Sensitive Autonomous Adaptive Sensing and Low-cost Monitoring in Networked Sensing Systems," ACM Transactions on Autonomous and Adaptive Systems (TAAS), 2017. [SCI IF:2.13, JCR Q1]
+Md Zakirul Alam Bhuiyan, Jie Wu, Guojun Wang, Zhigang Chen, Jianer Chen, and Tian Wang, "Quality-Guaranteed and Event-Senstive Data Collection and Monitoring in Wireless Vibration Sensor Networks,” IEEE Transactions on Industrial Informatics, 2017 [SCI IF: 6.76, JCR Q1]
+Md Zakirul Alam Bhuiyan, G. Wang, J. Cao, and J. Wu, “Sensor Placement with Multiple Objectives for Structural Health Monitoring,” ACM Transactions on Sensor Networks, 10(4):1-45, 2014. [SCI IF: 2.19, JCR Q1]
+Md Zakirul Alam Bhuiyan, J. Wu, and G. Wang, "Sensing and Decision-making in Cyber-Physical Systems: The Case of Structural Health Monitoring, IEEE Transactions on Industrial Informatics, 12(6): 2103-2114, Dec. 2016 [SCI IF: 6.76, JCR Q1]
+Md Zakirul Alam Bhuiyan, Jie Wu, Gary M. Weiss, Thaier Hayajneh, Tian Wang, and Guojun Wang, "Event Detection through Differential Pattern Mining in Cyber-Physical Systems," IEEE Transactions on Big Data, Jun 2017
+Md Zakirul Alam Bhuiyan, Jie Wu, Guojun Wang, Jiannong Cao, Wenjun Jiang, and Mohammed Atiquzzaman, “Towards Cyber-Physical Systems Design for Structural Health Monitoring: Hurdles and Opportunities,” ACM Transactions on Cyber-Physical Systems, 2017
+Entao Luo, Md Zakirul Alam Bhuiyan*, Guojun Wang, Md Arafatur Rahman, Jie Wu, and Mohammed Atiquzzaman, “PrivacyProtector: Privacy-Protected Patient Data Collection in IoT-based Healthcare Systems,” IEEE Communication Magazine (COMMAG), 56(2): 163-168, 2018 (Corresponding Author) [SCI IF: 10.45, JCR Q1]
+Tian Wang, Md Zakirul Alam Bhuiyan, Guojun Wang, Md. Arafatur Rahman, Jie Wu, and Jiannong Cao, "Big Data Reduction for Smart City's Critical Infrastructural Health Monitoring," IEEE Communication Magazine (COMMAG), 2017 (Corresponding Author). [SCI IF: 10.45, JCR Q1] [ESI Highly Cited Paper, As of Jan 2018]
+Md Zakirul Alam Bhuiyan, Guojun Wang, and Kim-Kwang Raymond Choo, “Secured Data Collection for a Cloud-Enabled Structural Health Monitoring System,” in Proc. of IEEE HPCC 2016
+Md Zakirul Alam Bhuiyan, G. Wang, J. Cao, and J. Wu, "Energy and Bandwidth-Efficient Wireless Sensor Networks for Monitoring High-Frequency Events," in Proc. IEEE SECON 2013
+Md Zakirul Alam Bhuiyan, Guojun Wang, Wang Tian, Md. Arafatur Rahman, and Jie Wu, “Content-Centric Event-Insensitive Big Data Reduction in Internet of Things,” in Proc. of IEEE GLOBECOM 2017
+Md Zakirul Alam Bhuiyan and Jie Wu, “Trustworthy and Protected Data Collection for Event Detection Using Networked Sensing Systems,” in Proc. of IEEE Sarnoff 2016
+Md Zakirul Alam Bhuiyan and Jie Wu, "Event Detection through Differential Pattern Mining in Internet of Things," in Proc. of IEEE MASS 2016 [Best Paper Award].
+Md Zakirul Alam Bhuiyan, Guojun Wang, Jiannong Cao, Jie Wu, “Local Monitoring and Maintenance for Operational Wireless Sensor Networks,” in Proc. of IEEE ISPA 2013 [Best Paper Award]
+Md Zakirul Alam Bhuiyan, Jiannong Cao, Guojun Wang, and Xuefeng Liu, “Energy-Efficient and Fault-Tolerant Structural Health Monitoring in Wireless Sensor Networks,” in Proc. of IEEE SRDS 2012
+Bio:Dr. Bhuiyan is currently a Tenured/Associate Professor of the Department of Computer and Information Sciences at Fordham University, NY City, USA. He is the Director of Dependable and Secure System Research (DependSys) Lab and is affiliated with Fordham Center for Cybersecurity. Prior to that, he worked as an Assistant Professor at Fordham University and Temple University, and Adjunct Professor at Harvard Univerity. His research focuses on cybersecurity, data-driven dependability, Trustworthy AI/ML, and Emerging CPS/IoT applications. Dr. Bhuiyan authored/co-authored over 250 publications including journal/transaction articles, conference proceedings, 10 book chapters, and 04 books. His publication appeared in many prestigious journals, including IEEE TC, IEEE TPDS, IEEE TII, IEEE TDSC, IEEE TITS, IEEE TSUSC, IEEE TETC, IEEE IoT, ACM CS, ACM TAAS, ACM TOSN, INF, INS, JSA, JNCA, and conferences including IEEE INFOCOM, IEEE SECON, IEEE/IFIP DSN, IEEE SRDS, IEEE TrustCom, DCOSS, IEEE MASS, IEEE DASC, and so on.Dr. Bhuiyan has served as an Associates Editor and Lead Guest editor for key journals including IEEE TII, ACM TOMM, ACM CPS, IEEE IoT-J, INS, FGCS, JNCA, JPDC, JSA, ComNet. He has been recognized as one of the -- “Highly Cited Researchers” --One of the world’s most influential researchers (0.1%) across multi-disciplines, including computer science, by Web of Science and as one of the -- “The Rising Star of Science” in the world. 25 of his research work have become the “ESI Highly Cited Papers” and 5 of them become “Hot Paper” in Computer Science fields. He has also served as the general chair, program chair, workshop chair, publicity chair, TPC member, and reviewer of various international journals/conferences, including IEEE DASC 2024, INFOCOM AidTSP workshop, IEEE TrustCom (2023, 2020), IEEE CSCloud 2022, IEEE iSCI 2021, and IEEE DependSys 2020. He has received 7 Best Paper Awards and the IEEE TCSC Early Career Researcher (2016-2017), the IEEE Outstanding Leadership Award (2018-2021), and Service Award (2028, 2019). He is a senior member of IEEE and a member of ACM.
+Publications (120+)
+2018
+COMMAG: Entao Luo, Md Zakirul Alam Bhuiyan*, Guojun Wang, Md Arafatur Rahman, Jie Wu, and Mohammed Atiquzzaman,PrivacyProtector: Privacy-Protected Patient Data Collection in IoT-based Healthcare SystemsIEEE Communication Magazine (COMMAG), 56(2): 163-168, 2018 (*Corresponding Author) (SCI/ESI IF:10.45, JCR Q1)
+COMMAG: Tian Wang, Md Zakirul Alam Bhuiyan, Guojun Wang, Md. Arafatur Rahman, Jie Wu, and Jiannong Cao,“Big Data Reduction for Smart City’s Critical Infrastructural Health Monitoring,”IEEE Communication Magazine (COMMAG), 56(3): 128-133, 15 March 2018 (Corresponding Author). (SCI/ESI IF:10.45, JCR Q1)
+IoT-J: H. Tao, Md Zakirul Alam Bhuiyan, A. Abdalla, M. Hassan, J. Jain, and T. Hayajneh,“Secured Data Collection with Hardware-based Ciphers for IoT-based Healthcare,”IEEE Internet of Things Journal, 2018 (SCI/ESI IF:7.5, JCR Q1)
+IoT-J: Shaobo Zhang, Guojun Wang, Md Zakirul Alam Bhuiyan, and Qin LiuA Dual Privacy-Preserving Scheme in Continuous Location-Based ServicesIEEE Internet of Things Journal (IEEE IoT-J), 2018 (SCI/ESI IF: 7.5, JCR Q1)
+IoT-J: Tian Wang, Guangxue Zhang, Anfeng Liu, Md Zakirul Alam Bhuiyan, and Qun Jin,“A Secure IoT Service Architecture with an Efficient Balance Dynamics Based on Cloud and Edge Computing,”IEEE Internet of Things Journal (IEEE IoT-J), 5(4): 2478-2482, Aug 2018 (SCI/ESI IF: 7.5, JCR Q1)
+IoT-J: S. H. Islam, K. Arijit, G. Biswas, Md Zakirul Alam Bhuiyan, P Vijayakumar, and M. Karuppiah,“Provably Secure Identity-based Signcryption Scheme for Crowdsourced Industrial Internet of Things Environments,”IEEE Internet of Things Journal (IEEE IoT-J), 5(4): 2904-2914, Aug. 2018 DOI: 10.1109/JIOT.2017.2741580 (SCI/ESI IF: 7.5, JCR Q1)
+TII: Xiong Li, Jiangwen Liu, and Md Zakirul Alam Bhuiyan,“A Robust ECC based Provable Secure Authentication Protocol with Privacy Protection for Industrial Internet of Things,”IEEE Transactions on Industrial Informatics, 14(8): 3599-3609, 2018,DOI: https://doi.org/10.1109/TII.2017.2773666 (SCI/ESI IF:5.3, JCR Q1)
+INS: Peiyuan Sun, J Li, Md Zakirul Alam Bhuiyan, L Wang, B Li,“Modeling and Clustering Attacker Activities in IoT through Machine Learning Techniques,”Information Sciences, https://doi.org/10.1016/j.ins.2018.04.065, 2018 (SCI/ESI IF: 4.5, JCR Q1)
+JNCA: Md. Arafatur Rahman, A. Taufiq Asyhari, Md Zakirul Alam Bhuiyan*, Qusay Medhat Salih, and Kamal Zuhairi Bin Zamli,“L-CAQ: Joint link-oriented channel-availability and channel-quality based channel selection for mobile cognitive radio networks,”Journal of Network and Computer Applications,DOI: https://doi.org/10.1016/j.jnca.2018.03.022, 2018 (*Corresponding author) (SCI/ESI IF: 3.991, JCR Q1)
+FGCS: Tian Wang, Jiyuan Zhou, Minzhe Huang, Md Zakirul Alam Bhuiyan, Anfeng Liu, Wenzheng Xud, and Mande Xie,Fog-based storage technology to fight with cyber threatFuture Generation Computer Systems (FGCS), 2018 [SCI/ESI IF: 4.64]
+FGCS: Bassam Jamil Mohd, Thaier Hayajneh, Khalil Mustafa Ahmad Yousef, Zaid Abu Khalaf, and Md Zakirul Alam Bhuiyan,“Hardware design and modeling of lightweight block ciphers for secure communications,”Future Generation Computer Systems, 83: 510-521 (2018) [SCI/ESI IF: 4.64]
+FGCS: Cheng Guo, Ningqi Luo, Md Zakirul Alam Bhuiyan, Yingmo Jie, Yuanfang Chen, Bin Feng, Muhammad Alam,“Key-aggregate authentication cryptosystem for data sharing in dynamic cloud storage,”Future Generation Comp. Syst. 84: 190-199 (2018) [SCI/ESI IF: 4.64]
+FGCS: Joarder Kamruzzaman, Guojun Wang, Gour C. Karmakar, Iftekhar Ahmad, Md Zakirul Alam Bhuiyan,“Acoustic sensor networks in the Internet of Things applications,”Future Generation Computer Systems, 86: 1167-1169 (2018) [SCI/ESI IF: 4.64]
+FGCS: Yingxue Wang, Yanan Chen, Md Zakirul Alam Bhuiyan, Yu Han, Shenghui Zhao, Jianxin Li,“Gait-based Human identification using acoustic sensor and deep neural network,”Future Generation Computer Systems, 86: 1228-1237 (2018) [SCI/ESI IF: 4.64]
+FGCS: Sayantani Basu, Marimuthu Karuppiah, K. Selvakumar, Kuan-Ching Li, SK Hafizul Islam, Mohammad Mehedi Hassan, Md Zakirul Alam Bhuiyan,“An intelligent/cognitive model of task scheduling for IoT applications in cloud computing environment,”Future Generation Computer Systems, 88: 254-261 (2018)
+FGCS:Weihong Chen, Ji-yao An, Renfa Li, Li Fu, Guoqi Xie, Md Zakirul Alam Bhuiyan, Keqin Li,“A novel fuzzy deep-learning approach to traffic flow prediction with uncertain spatial-temporal data features,”Future Generation Comp. Syst. 89: 78-88 (2018)
+FGCS:Hao Peng, Mengjiao Bao, Jianxin Li, Md. Zakirul Alam Bhuiyan, Yaopeng Liu, Yu He, Erica Yang,“Incremental term representation learning for social network analysis,” Future Generation Computer Systems, 86: 1503-1512 (2018) [SCI/ESI IF: 4.64]
+ACCESS: Md. Arafatur Rahman, Vitaliy Mezhuyev, Md Zakirul Alam Bhuiyan*, S M Nazmus Sadat, Siti Aishah Binti Zakaria, And Nadia RefatReliable Decision Making of Accepting Friend Request on Online Social NetworksIEEE ACCESS, 6: 9484-9481, 22 Feb 2018 (*Corresponding author)
+ACCESS:Md Arafatur Rahman, Saiful Azad, A. Taufiq Asyhari, Khoirul Anwar, and Md Zakirul Alam BhuiyanCollab-SAR: A Collaborative Avalanche Search-And-Rescue Missions Exploiting Hostile Alpine NetworksIEEE ACCESS, 2018 (Corresponding Author)
+COMNET: T. Wang, J. Zenga, Md Zakirul Alam Bhuiyan, Y, Chen, Y. Cai, H. Tian, M. XieEnergy-efficient relay tracking with multiple mobile camera sensorsComputer Networks, 133:130-140, 2018, https://doi.org/10.1016/j.comnet.2018.01.002 [SCI IF: 2.51 & EI]
+TBD: Md Zakirul Alam Bhuiyan, Jie Wu, Gary M. Weiss, Thaier Hayajneh, Tian Wang, and Guojun WangEvent Detection through Differential Pattern Mining in Cyber-Physical SystemsIEEE Transactions on Big Data, Jun 2017, https://doi.org/10.1109/TBDATA.2017.2731838
+TBD: Weiren Yu, Jianxin Li, Md Zakirul Alam Bhuiyan, Richong Zhang, and Jinpeng HuaiRing: Real-Time Emerging Anomaly Monitoring System over Text StreamsIEEE Transactions on Big Data, https://doi.org/10.1109/TBDATA.2017.2672672
+TII: Xiong Li, Jianwei Niu, Md Zakirul Alam Bhuiyan, Fan Wu, Marimuthu Karuppiah, and Saru KumariA Robust ECC based Provable Secure Authentication Protocol with Privacy Protection for Industrial Internet of ThingsIEEE Transactions on Industrial Informatics, DOI: https://doi.org/10.1109/TII.2017.2773666
+TBD : Thao Tran, Mohammad Rahman, Md Zakirul Alam Bhuiyan, Ayumu Kubota, Shinsaku Kiyomoto, and Kazumasa OmoteOptimizing Share Size in Efficient and Robust Secret Sharing Scheme for Big DataIEEE Transactions on Big Data, 2017, https://doi.org/10.1109/TBDATA.2017.2708085, [Paper]
+C-S: Mansour Alali, Ahmad Almogren, Mohammad Mehedi Hassan, Iehab Al Rassan, and Md. Zakirul Alam Bhuiyan,“Improving risk assessment model of cyber security using fuzzy logic inference system,”Computers & Security 74: 323-339 (2018) [SCI/ESI]
+IJCS: Majing Su, Hongli Zhang,Md Zakirul Alam Bhuiyan*, Xiaojiang Du, Peng Zhang,An effective copyright-protected content delivery scheme for P2P file sharing networksInternational Journal of Communication Systems (IJCS), 2018 (Corresponding author) [SCI IF: 1.1 & EI]
+TSUSC: Junggab Son, Donghyun Kim, Md Zakirul Alam Bhuiyan, Rahman Tashakkori, Jungtaek Seo, and Heekuck Oh,Privacy Enhanced Location Sharing for Mobile Online Social NetworksIEEE Transactions on sustainable computing, 2018
+TSUSC: Tian Wang, Yang Li, Guojun Wang, Jiannong Cao, Md Zakirul Alam Bhuiyan, Weijia JiaSustainable and Efficient Data Collection from WSNs to CloudIEEE Transactions on sustainable computing, 2017, https://doi.org/10.1109/TSUSC.2017.2690301
+TII: Mingming Zhang, Chao Chen, Tianyu Wo, Md Zakirul Alam Bhuiyan, Tao Xie, Xuelian LinSafeDrive: Online Driving Anomaly Detection from Large-Scale Vehicle DataIEEE Transactions on Industrial Informatics, 2017 https://doi.org/10.1109/TII.2017.2674661 [SCI IF: 6.77]
+JNCA: Md. Arafatur Rahman, A. Taufiq Asyhari, Md Zakirul Alam Bhuiyan*, Qusay Medhat Salih, Kamal Zuhairi Bin ZamliJoint Link-Oriented Channel-Availability and Channel-Quality Based Channel Selection for Mobile Cognitive Radio NetworksJournal of Network and Computer Applications (JNCA), 2018 (*Corresponding author)
+IJCS: Yangyang Zhang, Jianxin Li, Chenggen Sun, Md Zakirul Alam Bhuiyan, Weiren Yu, Richong Zhang,“HotML: A DSM-based machine learning system for social networks,”J. Comput. Science 26: 478-487 (2018)
+IJCIP: Muhammad Nomani Kabir, Md. Arafatur Rahman, Saiful Azad, Mohamed Mostafa A. Azim, Md Zakirul Alam Bhuiyan,“A connection probability model for communications networks under regional failures,”IJCIP 20: 16-25 (2018)
+IEEE TrustCom: Liangfu Lu, Xinhe Zhu, Xuyun Zhang, Junhan Liu, Md Zakirul Alam Bhuiyan and Guangtai CuiIntrusion Detection Method Based On Uniformed Conditional Dynamic Mutual InformationThe 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom’18),New York, USA, July 31th – August 3, 2018
+IEEE TrustCom: Hongbin Liu, Ming Xu, Yiming Wu, Ning Zheng, Yuanfang Chen and Md Zakirul Alam Bhuiyan,Resilient Bipartite Consensus for Multi-Agent Networks with Antagonistic Interaction,The 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom’18)New York, USA, July 31th – August 3, 2018. (Corresponding Author)
+IEEE TrustCom: Cheng Guo, Xinyu Tang, Yuanfang Chen, Pengxu Tain and Md Zakirul Alam Bhuiyan,An Efficient Distributed Approach on High Dimensional Data Similarity Searchable EncryptionThe 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom’18)New York, USA, July 31th – August 3, 2018 (Corresponding Author)
+2017
+TDSCMd Zakirul Alam Bhuiyan, G. Wang, J. Wu, J. Cao, X. Liu, and T. WangDependable Structural Health Monitoring Using Wireless Sensor NetworksIEEE Transactions on Dependable and Secure Computing, 14(4): 363-376, JULY/AUGUST 2017 [SCI/ESI IF: 2.29][Paper, Supplemental file]
+TAASMd Zakirul Alam Bhuiyan, J. Wu, G. Wang, and T. Wang, and M. Hassane-Sampling: Event-Sensitive Autonomous Adaptive Sensing and Low-cost Monitoring in Networked Sensing SystemsACM Transactions on Autonomous and Adaptive Systems, 12(1): 1-29, April 2017. [SCI/ESI IF: 2.48]
+TIIMd Zakirul Alam Bhuiyan, J. Wu, G. Wang, Z. Chen, J. CHen, and T. Wang“Quality Guaranteed and Event-Sensitive Data Collection and Monitoring in Wireless Vibration Sensor NetworksIEEE Transactions on Industrial Informatics, 2017 [SCI/ESI IF: 6.77]
+Honors & Awards
+Having ESI Highly Cited Research Papers in Computer Science) (as of 01/2018)Web of Science
+IEEE TCSC ECR Award for ExcellenceIEEE TCSC Award for Excellence in Scalable Computing for Early Career Researchers, 2016-2017 (a prestigious award given to 3-4 people selected from around the world)
+IEEE Best Paper AwardThe 13th IEEE International Conference on Mobile Ad hoc and Sensor Systems (IEEE MASS 2016), Brasilia, Brazil, October 10-13, 2016
+IEEE Outstanding Leadership AwardIEEE
+Outstanding CSC AlumnusHonored by China Scholarship Council (CSC)- Chinese Government Scholarship Unit, Offered on the occasion of the 20th anniversary of CSC, 2016
+Provincial Excellent PhD Thesis AwardAwarded by Hunan Provincial Educational Department, Hunan Province, China (Top one in the Province in academic award year 2015-2016 for the PhD thesis submitted in 2013-2014)
+Young Scientist, 2015Awarded by National Science Foundation of China (NSFC) in the Youth Scientific Class, 2015
+Outstanding PhD Thesis Award, 2015Awarded by Central South University, China (The first one among the four theses awards, selected from around 60 PhD theses in 2013 and 2014) [Candidate for China Hunan Provincial Doctoral Thesis Award] [Link]
+Best Paper Award @ IEEE ISPA’13, Melbourne [国际学术会议最佳论文奖]Md Zakirul Alam Bhuiyan, Guojun Wang, Jiannong Cao, Jie Wu, “Local Monitoring and Maintenance for Operational Wireless Sensor Networks,” in Proceedings of the 11th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA’13), Melbourne, Australia, 16-18 July, 2013.
+Top-Notch Innovative PhD Student Fellowship (2012-2013)Awarded by Central South University and the Hunan Provincial Science Foundation,China [2012-2013 学年度拔尖创新博士生奖学金]
+Hunan Province PhD Research and Innovation Research GrantAwarded by the Hunan Provincial Science Foundation, China [2012年度湖南省研究生教育创新工程项目经费]
+Best Paper AwardMd Zakirul Alam Bhuiyan, Guojun Wang, and Jiannong Cao, “Resource-Efficient Vibration Data Collection in Cyber-Physical Systems,” the 2012 14th Annual Academic Conference of School of Information Science and Engineering, Central South University [ 信息科学与工程学院第十四届研究生学术年会优秀论文奖].
+Outstanding Master Degree Dissertation AwardAwarded by Hunan province, China (2010-11) [湖南省优秀研究生学位论文奖]
+Excellent Master Degree Dissertation AwardAwarded by the Central South University, China (2010) [ 中南大学优秀研究生学位论文奖]
+Distinguished International Student AwardAwarded by Chinese Government Scholarship Council (CSC), 2009. [ 2009 年优秀外国留学生奖]
+Full PhD Scholarship (2009)Sponsored by Chinese Government Scholarship Council (CSC) [中国政府奖学金对于博士学位]
+Full Master Degree Scholarship (2006)Awarded by Asia Foreign Scholarship under ‘Chinese Government Scholarship (CSC). [中国政府奖学金对于硕士学位]
+One-Year Diploma ScholarshipRecipient of the diploma in Computer Application sponsored by the IDB-BISEW IT Scholarship Project (3rd round). http://www.idb-bisew.org/
+Academic Financial AssistanceRecipient of it for the duration 2002-2003, 2003-2004 on BSc. degree studies.
+IT InternshipHonored by the Alpha Soft System Ltd., Bangladesh, in 2005.
+Certificate Course on Advance Programming (VB. Net, C#)Selected for the course offered by the Bangladesh Computer Council (BCC), Bangladesh, 2004
+Industrial Training Support Selected for the training offered by the Grameen Phone Ltd (Leading Telecommunication Company in Bangladesh), 2003.
+RESEARCH
+Dr. Alam is leading the Fordham Dependable and Secure System Lab ( DependSys Lab) with a research group at the Fordham University.
+GRADUATE STUDENTS/POSTDOCS
+Movses Musaelian, E-Government in a Data-Driven World: A Survey [2018-Present]
+Revathi Bhuvaneswari, Banking/Finance industries handle sensitive customer data [2018-Present]
+Megha Anand, Security Performance in Embedded IoT devices [2018-Present]
+Simran Sidhu, Wi-Fi Signal collection and Security [2018-Present]
+Michael Furman, Multimedia Data Security Analytics [2018-Present]
+CO-SUPERVISED PHD STUDENTS
+Faizan Khan,Wi-Fi Signal Applications [2016-Present]
+Hafizur Rahman, Trustworthy Data Collection [2017-Present]
+UNDERGRADUATE STUDENT
+Md Monirul Islam, Application-Specific Wi-Fi Signal data mining and Security
+Faiza Khan, Wi-Fi Signal Collection and Security Analysis
+Mohaib Siddiqui, Privacy with Blockchain
+STUDENTS GRADUATED
+Aliuz Zaman, Anomaly Attack Detection, (2016- 2018)
+Athina Rosales, Driving Anomaly Detection [2016-2018]
+Muhammed Tanim Khan, Click Fraud and Attack Detection (2016–2018)
+Ongoing Project:
+Project Title: Trustworthy and Protected Data Collection
+Project Theme: As the data collection becomes broader and easier through automated data collection, sensors, and the IoT, protecting the data is becoming more of a focus. The concept of “big data” just increases the focus. Many of the contributions to this focus is on maintaining data security and privacy in the process, storage, transmission, and decision-making. However, there can be a question, what would be the situation if low-quality, untrustworthy, meaningless, or undependable data are collected at the time of acquisition, and we apply various strong security protocols to process, store, and transmit the data and make decisions for various cyber applications. Also, what would be the situation when existing privacy-preserving protocols for communication and decision-making can be effective but to what value if the data being project are themselves suspect due to attacks on the privacy at the data gathering process. In this project, we will highlight these situations and show how untrustworthy concerns may appear during the data collection. We will then discuss challenges and potential solutions for the trustworthy data collection. The outcome of this project is to offer a trustworthy data collection for aggregation in decision-making for various network and CPS applications.
+Publication:
+Entao Luo, Md Zakirul Alam Bhuiyan*, Guojun Wang, Md Arafatur Rahman, Jie Wu, and Mohammed Atiquzzaman,  “PrivacyProtector: Privacy-Protected Patient Data Collection in IoT-based Healthcare Systems,”   IEEE Communication Magazine (COMMAG), 56(2): 163-168, 2018
+Md Zakirul Alam Bhuiyan and Jie Wu, “Trustworthy and Protected Data Collection for Event Detection Using Networked Sensing Systems,” The 37th IEEE Sarnoff Symposium 2016, Newark, New Jersey, USA, Sept 19-21, 2016
+Md Zakirul Alam Bhuiyan and Jie Wu, “Trustworthy and Protected Data Collection for Event Detection Using Networked Sensing Systems,” The 37th IEEE Sarnoff Symposium 2016, Newark, New Jersey, USA, Sept 19-21, 2016
+Md Zakirul Alam Bhuiyan, Guojun Wang, and Kim-Kwang Raymond Choo, “Secured Data Collection for a Cloud-Enabled Structural Health Monitoring System,” The 18th IEEE International Conference On High Performance Computing and Communications (IEEE HPCC), 12-14 December, 2016, Sydney, Australia
+Md Zakirul Alam Bhuiyan and Jie Wu, “Trustworthy and Protected Data Collection for Event Detection Using Networked Sensing Systems,” The 37th IEEE Sarnoff Symposium 2016, Newark, New Jersey, USA, Sept 19-21, 2016
+Hai Tao, Md Zakirul Alam Bhuiyan, Ahmed N. Abdalla, Mohammad Mehedi Hassan, Jasni Mohamad Zain Thaier Hayajneh, “Secured Data Collection with Hardware-based Ciphers for IoT-based Healthcare,” IEEE Internet of Things Journal (IEEE IoT-J), 2018 (under review)
+Project Title: High-Quality Data Collection
+Project Theme: Applying wireless vibration sensor networks (WVSNs) to this class is challenging due to severe resource constraints (e.g., bandwidth and energy). State-of-the-art data reduction approaches (e.g., signal processing, in-network aggregation) suggested to improve these constraints do not satisfy application-specific requirements, e.g., high quality of data (QoD) collection or quality of monitoring (QoM). In this project, we work on data collection, a general approach to vibration data collection and monitoring in a resource-constrained WVSN. We enable each sensor to reduce the amount of data (before transmission) in a decentralized manner in two stages: the data acquisition stage and data transmission stage. The outcome of this project is to offer a high-quality data collection for high-quality decision-making in various network and CPS applications.
+Publication:
+Md Zakirul Alam Bhuiyan, Jie Wu, Guojun Wang, Zhigang Chen, Jianer Chen, and Tian Wang, “Quality-Guaranteed and Event-Senstive Data Collection and Monitoring in Wireless Vibration Sensor Networks,” IEEE Transactions on Industrial Informatics, 13(2): 572-583, April 2017 [SCI IF: 6.76, JCR Q1]
+Tian Wang, Yang Li, Guojun Wang, Jiannong Cao, Md Zakirul Alam Bhuiyan, Weijia Jia, “Sustainable and Efficient Data Collection from WSNs to Cloud”,  IEEE Transactions on sustainable computing (TSUSC), 2017, DOI: https://doi.org/10.1109/TSUSC.2017.2690301
+M. Z. A. Bhuiyan, Guojun Wang, Jiannong Cao, and Jie Wu, ” Vibration Data Collection and Monitoring in Wireless Sensor Networks,” Technical Report, Central South University, 2013 (Best Paper Award).
+Md Zakirul Alam Bhuiyan Guojun Wang, Jie Wu, Tian Wang, and Xiangyong Liu, “Resource-Efficient Vibration Data Collection in Cyber-Physical Systems,” Proceedings of the 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015), Zhangjiajie, China, November 18-20, 2015
+Md Zakirul Alam Bhuiyan, Mdaliuz Zaman, Guojun Wang, Tian Wang, and Jie Wu, “Privacy-Protected Data Collection in Wireless Medical Sensor Networks,” The 12th International Conference on Networking, Architect and Storage (IEEE NAS 2017) will be held from August 7- 8, 2017 at Shenzhen, China
+Professional Activities
+PROFESSIONAL/ SCHOLARLY/ACADEMIC ACTIVITIES
+ACADEMIC SERVICES
+ Core Advisor, Rose Hill Campus, Computer and Information Science, Spring 2017
+ Advisor for Cyber Security Minor
+Checking with students, who declare interests in minor in cybersecurity
+Advising for courses, prerequisites, and the completion of minor requirement
+Advising course and learning importance
+ CS-Math Program Advisor, Fordham University, 2016-
+Checking with students, who declare interests in the joint program
+Communicating with students for advising
+Observation of their current courses taken, quality of taking some future courses
+Suggesting courses in their need according to the quality
+ MSCS Program Committee CIS Dept., Fordham University
+ TT Faculty Hiring Committee Member, CIS Dept., Fordham University, 2016-2017
+ Adjunct Graduate Faculty, Graduate School, Temple University (can supervise graduate students directly for independent research) (2015-2016)
+ Graduate Dissertation Committee Member, Temple University (2015-2016)
+EDITORS/EDITORIAL BOARD
+Guest Editor || Journal of Network and Computer Applications (JNCA) 2018-Present
+ Associate Editor || International Journal of Computers and Applications (TJCA) 2016-Present
+ Associate Editor | Lead Guest Editor || IEEE Transactions on Big DataSpecial Issue on Trustworthiness in Big Data and Cloud Computing Systems 2015-2018
+ Associate Editor | Lead Guest Editor || ACM Transactions on Cyber-Physical SystemsSpecial Issue on Dependability in Cyber-Physicals Systems and Applications 2016-2018
+ Guest Editor || IEEE Internet of Things JournalSpecial Issue on Emerging Social Internet of Things: Recent Advances and Applications 2016-2017
+ Guest Editor || Cognitive System Research, ElsevierSpecial Issue on Cognitive Computing and Internet of Things for Industrial Applications, 2018-2019
+ Lead Guest Editor || Information Sciences – Elsevier (SCI IF 4.1)Special Issue on Dependability in Parallel and Distributed Systems and Applications. 2015-2017
+ Guest Editor || Future Generation Computer Systems- ElsevierSpecial issue on SI on Special Issue on Smart Data for Internet of Things 2018-Present
+ Guest Editor || Future Generation Computer Systems- ElsevierSpecial issue on SI on Acoustic Sensor Networks in IoT Applications 2016-2017
+ Guest Editor || Scalable Computing and Communications – SpringerSpecial Issue on Engineering of highly adaptive large scale systems 2016-2017
+ Guest Editor || Multimedia Tools and Applications – Springer (SCI IF: 1.53)Special issue on Intelligent techniques and Internet of Things for smart automation 2017-2018
+ Guest Editor || Cluster Computing (Springer)Special Issue on Security and Privacy in Sensor Cloud Integration 2017-Present
+ Guest Editor || Cluster Computing JournalSI on Autonomic computing and applications for Hybrid infrastructure 2017-present
+ Guest Editor || Wireless Personal Communications Journal,Special Issue on Wireless and Green IoT Systems for Smart World 2017- Present
+ Guest Editor || Concurrency and Computation: Practice and Experience (CC-PE)Special Issue on Advanced Algorithms for IoT Cloud computing and Cyber-Enabled Applications 2017-2018
+ Guest Editor || Concurrency and Computation: Practice and Experience – WileySpecial Issue on on Advanced Algorithms for IoT Cloud computing and Cyber-Enabled Application 2017-Present
+ Guest Editor || Future Generation Computer Systems- ElsevierSI on Acoustic Sensor Networks in IoT Applications 2016-2017
+ Guest Editor | International Journal of Computers and Applications,Special Issue on Security and Privacy in Social Networks 2016-Present
+ Guest Editor || Journal of Cognition, Technology & Work (SCI IF 1.105)SI on Cognitive Science for Work and Quality of Life 2017-2018
+ Guest Editor || International Journal of Embedded Systems (InderScience)Special Issue on “RFID Applications in the Internet of Things”Guest Editors: Dr. Al-Sakib Khan Pathan, Dr. Md Zakirul Alam Bhuiyan, Dr. Yassine Hadjadj-Aoul. 2014-2015
+ Proceedings Editor || SpringerProceedings Editor for IEEE DASC-PICom-DataCom-CyberSciTec 2016Kevin I-Kai Wang, Qun Jin, Qingchen Zhang, Md Zakirul Alam Bhuiyan, Robert Ching-Hsien HsuIEEE Computer Society, ISBN 978-1-5090-4065-0, DOI: https://doi.org/10.1109/DASC-PICom-DataCom-CyberSciTec.2016.105
+ Proceedings Editor || SpringerPeter Mueller, Sabu M Thampi, Md Zakirul Alam Bhuiyan, Ryan Ko, Robin Doss, Jose M. Alcaraz Calero, Book title: Security in Computing and Communications. eBook ISBN: 978-981-10-2738-3, 474 Pages, DOI: 10.1007/978-981-10-2738-3, Publisher: Singapore,
+ Proceedings Editor || SpringerCarretero, J., Garcia-Blas, J., Gergel, V., Voevodin, V., Meyerov, I., Rico-Gallego, J.A., Díaz-Martín, J.C., Alonso, P., Durillo, J., Garcia Sánchez, J.D., Lastovetsky, A.L., Marozzo, F., Liu, Q., Bhuiyan, Z.A., Fürlinger, K., Weidendorfer, J., Gracia, J.The 16th International Conference on Algorithms and Architectures for Parallel Processing ( ICA3PP 2016),Publisher: Theoretical Computer Science and General Issues, SpringereBook ISBN: 978-3-319-49956-7, DOI: 10.1007/978-3-319-49956-7, 384 pages, 2016
+MEMBERSHIP PROFESSIONAL SOCIETIES
+Professional Member
+Senior Member, Institute of Electrical and Electronics Engineering (IEEE): Computer Society (Member)
+Association for Computing Machinery (ACM) (Member)
+IEEE Communications Society (ComSoc) Member
+IEEE Computer Society (CS) Member
+IEEE Young Professional Member
+IEEE SMC Technical Committee on Cybermatics.
+IEEE Sensors Council
+IEEE Systems Council
+IEEE Biometrics Council
+IEEE Council on RFID
+IEEE Nanotechnology Council
+ Non-Professional Member
+IEEE TCGCC Member (IEEE Technical Committee on Green Communications & Computing Member)
+CISTC (IEEE Communications and Information’s Security Technical Committee)
+TCCN (IEEE Technical Committee on Cognitive Networks)
+TCCC (IEEE Technical Committee on Computer Communications)
+ITC (Internet Technical Committee)
+TCBD (IEEE Technical Subcommittee on Big Data)
+CONFERENCE ORGANIZATION (MAJOR ROLE)
+General Chair
+General Chair: The 16th IEEE International Conference on Dependable, Autonomic and Secure Computing (IEEE DASC-2018), Athens, Greece, Aug 6-10, 2018
+General Chair: The Second International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2017), Nov.12-16, Guangzhou, China
+General Chair: The 4th International Symposium on Sensor-Cloud Systems (SCS 2017) Guangzhou, China, December 12-15, 2017
+General Chair: The 8th IEEE International Symposium on UbiSafe Computing (UbiSafe 2016) Tianjin, China, 23-26 August, 2016, in conjunction with the 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16)
+General Chair: The Second International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2016), Nov. 18-20, Zhangjiajie, China,
+General Chair: The 1st International Workshop on Trust, Security and Privacy for Big Data (Big Trust), December 14-16, 2016, Granada, Spain, in conjunction with the 16th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2016)
+General Chair: The first International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2015), Nov. 18-20, Zhangjiajie, China
+ Program Chair
+IEEE SmartWorld 2018: IEEE Smart World Congress 2018 (IEEE SmartWorld’18), Guangzhou, China, October 8-12, 2018
+IEEE I-SPAN 2018: Proceedings of the IEEE 14th International Symposium on Pervasive Systems, Algorithms, and Networks (IEEE I-SPAN 2018), Yichang, China, October 16-18, 2018
+Program Chair: The 15th IEEE International Conference on Dependable, Autonomic and Secure Computing (IEEE DASC-2017), Orlando, Florida, USA, Nov. 8-12, 2017
+Program Chair: The 14th IEEE International Conference on Dependable, Autonomic and Secure Computing (IEEE DASC-2016) in Auckland, New Zealand, August 8-12, 2016
+Program Chair: The 9th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2016), Nov. 16-18 (EI-Indexed by Springer)
+Program Chair: The Fourth International Symposium on Security in Computing and Communications (IEEE SSCC’16), September 21-24, 2016, Jaipur, India
+Program Chair: The 2015 International Symposium on Sensor-Cloud Systems (SCS 2015), Nov. 18-20, 2015 Zhangjiajie
+Program Chair: The 2015 IEEE International Conference on Scalable Computing and Communications (ScalCom2015), Shanghai, China
+ Panel Chair/Panelist
+Panelist: 2017 IEEE ISPA/IEEE IUCC/SpaCCS Joint Plenary Panel Session, Title: Achieving Trustworthy Cyber Systems: Challenges and Strategies
+Panel Chair: Dependability in Big Data and Cloud Computing and Applications the 21st IEEE Pacific Rim International Symposium on Dependable Computing (IEEE PRDC 2015), Zhangjiajie, China, November 18-20, 2015
+ Track Chair
+Track Chair: The 14th International Symposium on Pervasive Systems, Algorithms, and Networks (IEEE I-SPAN 2017), 26-28 June 2017, Exeter, Devon, UK ,Track: Global Networking and Cyber Security
+Track Chair: The sixth edition of International Conference on Advances in Computing, Communications and Informatics (IEEE ICACCI’17), Manipal, Karnataka, India during Sept. 13-16, 2017
+Track Chair: The IEEE 9th International conference in Cyber Security and Safety (IEEE CSS 2017), October 23-25, 2017, Xian, China
+Track Chair: The 2015 IEEE International Conference on Scalable Computing and Communications (IEEE ScalCom2015), Shanghai, China, Track: Mobile and Pervasive Computing
+Special Track Chair: The 14th International Symposium on Pervasive Systems, Algorithms, and Networks (IEEE I-SPAN 2017), 26-28 June 2017, Exeter, Devon, UK ,Special Session: Networking and Cyber Security
+ Workshop Chair
+Workshop Chair: The 7th International Conference on Advances in Computing, Communications and Informatics (ICACCI), September 19-22, 2018, Bangalore, India
+Workshop Chair: The 2nd EAI International Conference on Smart Grid and Internet of Things (SGIoT 2018), July 11–13, 2018, Niagara Falls, Canada
+Workshop Chair: The 2017 IEEE International Conference on Cyber, Physical, and Social Computing (CPSCom 2017), 21-23 June 2017, Exeter, UK
+Workshop Chair: The 12th International Conference on Green, Pervasive and Cloud Computing (GPC-2017), Amalfi Coast, Italy, May 11-13, 2017
+Workshop Chair: The 1st EAI International Conference on Smart Grid Assisted Internet of Things (SGIoT 2017), July 11–13, 2017 | Sault Ste. Marie, Ontario, Canada
+Workshop Chair: The 16th IEEE International Conference on Computer and Information Technology (IEEE CIT 2016), Fiji on 8-10 December 2016
+Workshop Chair: The 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015)
+ Publicity Chair
+IEEE HPCC 2018: The 20th IEEE International Conference on High Performance Computing and Communications, Exeter, Devon, UK, 28-30 Jun 2018
+IEEE DCOSS 2018: The annual International Conference on Distributed Computing in Sensor Systems (DCOSS 2018), Bronx, New York City, U.S.A. June 18 – 20, 2018.
+IEEE NOPE 2018: The 6th IEEE International Workshop on Network Optimization and Performance Evaluation (NOPE-18), Guangzhou, China, October 8-12, 2018
+Cyber Science Congress 2017: 2017 IEEE Cyber Science and Technology Congress (CyberSciTech 2017), Orlando, USA, November 6-10, 2017
+Publicity Chair: The 16th IEEE International Conference on Ubiquitous Computing and Communications (IEEE IUCC 2017), Guangzhou, China, December 12-15, 2017
+Publicity Chair: The 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16), Tianjin, China, 23-26 August, 2016
+Publicity Chair: The Ninth Asia-Pacific Services Computing Conference (IEEE APSCC 2016), Zhangjiajie, China, Nov. 16-18, 2016
+Publicity Chair: 2016 IEEE Symposium on Security and Privacy in Social Networks and Big Data (IEEE SocialSec 2016), Fiji on 8-10 December 2016
+Publicity Chair: The 5th IEEE International Conference on Sustainable Computing and Communication (IEEE SustainCom 2016), Dec. 19-21, Chengdu, China
+Publicity Chair: The Second International Workshop on Big Data and Cloud Computing for Future Sensor Networks (FSN 2016), August 15-18, 2016, Montreal, Canada
+Publicity Chair: The 5th IEEE International Conference on Sustainable Computing and Communication (SustainCom 2015), Dec. 19-21, Chengdu, China
+Publicity Chair: 22nd Asia-Pacific Conference on Communications, Yogyakarta, Indonesia on 25-27 August 2015
+Publicity Chair: The 6th IEEE International Symposium on UbiSafe Computing
+Publicity Chair: The 21th IEEE Pacific Rim International Symposium onDependable Computing (PRDC 2015)
+Publicity Chair: Publicity Chair: The 7th IEEE International Symposium on Security, Privacy and Anonymity in Internet of Things (IEEE SpaIoT 2014), Beijing, China, 24-26 September 2017
+Publicity Chair: The 6th IEEE International Symposium on UbiSafe Computing (IEEE UbiSafe 2014)
+ Session Chair
+Session Chair: The Second International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2017), Nov. 12-16, Guangzhou, China [Session A]
+Keynote Session Chair: The Second International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2017), Nov. 12-16, Guangzhou, China [Keynote: Advances in Securely Outsourcing Computation]
+Session Chair: The ACM International Conference on Management Engineering, Software Engineering and Service Sciences (ACM ICMSS 2017), Jan 14-16, 2017, Wuhan, China; [Session 4: Information Management and Applications]
+Session Chair: The 9th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2016), Zhangjiajie, China, Nov. 16-18, 2016; [Session 1: Security I]
+Session Chair: The 2nd International Symposium on Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys 2016), Zhangjiajie, China, Nov. 16-18, 2016; [Session 3: Secure Network]
+Session Chair:  The 15th IEEE International Conference on  High  Performance Computing  and Communications (IEEE HPCC 2013)
+Distributed Systems and Applications
+Computer Network
+Session Chair:  The 11th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing (IEEE/IFIP EUC-13); Session: Pervasive Computing and Communications
+Session Chair:  The 2013 International Workshop on Data Mining in Internet of Things; Session: Data Mining in Internet of Things (DMIoT 2013)
+Session Chair:  The 12th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom 2013)
+Session: ISSR/SPIoT (Security in e-Science and e-Research / Security and Privacy in Internet of Things)
+Session Chair:  The 6th Beijing-Hong Kong (BJ-HK) International Doctoral Forum (IDF 2011), Shenzhen, China, 2011. Poster Session Chair
+ Organizing Committee Member
+Organizing Committee Member: The 2nd EAI International Conference on Smart Grid and Internet of Things (SGIoT 2018), July 11–13, 2018, Niagara Falls, Canada
+Organizing Committee Member: The 15th IEEE International Conference on Dependable, Autonomic and Secure Computing (IEEE DASC-2017), Orlando, Florida, USA, Nov. 8-12, 2017
+Organizing Committee Member: The 10th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2016), Guangzhou, China, December 12-15, 2017
+Organizing Committee Member: The 15th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (IEEE TrustCom-16), Tianjin, China, 23-26 August, 2016
+Organizing Committee Member: The 9th International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage (SpaCCS 2016), Zhangjiajie, China, November 16-18, 2016
+Organizing Committee Member: The 2016 Cybersecurity and Cyberforensics Conference (IEEE CCC 2016), 26-28 July 2016 in Amman, Jordan
+Organizing Committee Member: The 10th International Conference on Asia-Pacific Services Computing (APSCC 2016), Zhangjiajie, China, November 16-18, 2016
+Organizing Committee Member: The 2016 International Conference on Collaboration Technologies and Systems (CTS 2016), June 06-10, 2016, Florida, USA
+Organizing Committee Member: First International Conference on Applied Soft computing and Communication Networks (ACN’16), September 21-24, 2016, Jaipur, India 
+Organizing Committee Member: The 7th IEEE International Symposium on Security, Privacy and Anonymity in Internet of Things, 2015
+Organizing Committee Member: The 6th IEEE International Symposium on UbiSafe Computing (IEEE UbiSafe 2015), 2015
+Organizing Committee Member: The 21th IEEE Pacific Rim International Symposium onDependable Computing (IEEE PRDC 2015)
+Organizing Committee Member: The 7th International Conference on Advances in Computing, Communications and Informatics (ICACCI), September 19-22, 2018, Bangalore, India
+ Technical Program Committee (TPC) Member
+Organizing Committee Member: IEEE Conference on Computer Communications (IEEE INFOCOM 2019), Paris, France, April 2019
+Program Committee Member:  IEEE Conference on Computer Communications (IEEE INFOCOM 2018), 16-19 Apr 2018, Honolulu, HI, USA
+Program Committee Member:  Globecom2018 SAC BD (2018 IEEE Global Communications Conference: Selected Areas in Communications: Big Data Track).
+Program Committee Member:  The International Conference on Communications (IEEE ICC 2018), 20 May – 24 May 2018, Sheraton Kansas City, MO, USA
+Program Committee Member:  IEEE 5G World Forum 2018 (IEEE WF-5G 2018), 9-11 July 2018, Santa Clara, California, USA
+Program Committee Member: The 2nd International Conference on Management Engineering, Software Engineering and Service Sciences (ACM ICMSS 2018), Jan 13-15, 2018 in Wuhan, China.
+Program Committee Member: The 7th International Conference on Advances in Computing, Communications and Informatics (ICACCI), September 19-22, 2018, Bangalore, India
+Program Committee Member: IEEE International Conference on Communications 20-24 May 2018 // Kansas City, MO
+USAICC 2018 Workshop – CCNCPS
+Program Committee Member:  The Third International Symposium on Ubiquitous Networking (UNet 2017), Casablanca, Morocco, May 10-12, 2017
+Program Committee Member: IEEE SMC Technical Committee on Cybermatics, 2018, http://www.ieee-cybermatics.org/tc/http://www.ieeesmc.org/technical-activities/cybernetics/cybermatics
+Program Committee Member:  The Fourth International Symposium on Ubiquitous Networking (UNet 2018), May 3-5, 2018, in Hammamet, Tunisia
+Program Committee Member:  IASED 2018 International Conference on Cyber Physical Systems and IoT (CPSIOT 2018), Stockholm, Sweden, September 21-23
+Program Committee Member: The IEEE Global Communications Conference (IEEE GLOBECOM 2017), Singapore, December 4-8, 2017 [AHSN Track]
+Program Committee Member:  The 2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), 2017 IECCO: Integrating Edge Computing, Caching, and Offloading in Next Generation Networks, San Francisco, USA.
+INSFC  Program Committee Member:  2017 IEEE 38th Sarnoff Symposium (IEEE Sarnoff’17), NJ, USA, September 18-20, 2017
+Program Committee Member: The 6th IEEE International Conference on Communication, Networks and Satellite (IEEE COMNETSAT 2017), Semarang, Indonesia, October 5-7, 2017.
+Program Committee Member:  The IEEE ICDM Workshop on Data Mining for Industrial Safety (IEEE DMIS 2017), November 18th 2017, New Orleans, Louisiana, USA, in conjunction with IEEE International Conference on Data Mining (ICDM 2017)
+Program Committee Member:  : The 1st EAI International Conference on Smart Grid Assisted Internet of Things (SGIoT 2017), July 11–13, 2017 | Sault Ste. Marie, Ontario, Canada
+Program Committee Member:  The International Conference on Wireless Networks and Mobile Communications (IEEE WINCOM’17), November 01-04, 2017, Rabat, Morocco
+Program Committee Member: The Eleventh International Conference on Advanced Engineering Computing and Applications in Sciences (ADVCOMP 2017), November 12 – 16, 2017,  Barcelona, Spain
+Program Committee Member:  Australasian Computer Science Week 2017 (IEEE ACSW 2017), January 31 – February 3, 2017. Deakin University, Melbourne, Australia.
+Program Committee Member:  International Conference on Intelligent Information Technologies (IEEE ICIIT 2017), Sept 6-8, Chennai, India
+Program Committee Member:  The 3rd International Conference on Networking, Systems and Security (NSysS 2017), Jan 5-8, Dhaka, Bangladesh
+Program Committee Member:  The Third International Symposium on Ubiquitous Networking (UNet 2017), Casablanca, Morocco, May 10-12, 2017
+Program Committee Member:  Australasian Computing Doctoral Consortium (ACDC 2017), Melbourne, Australia | January 31 – February 3, 2017
+Program Committee Member:  First International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2017), co-located with IEEE PerCom 2017, March 13 – 17, Kona, Big Island, Hawaii, USA
+Program Committee Member:  The 1st International Conference on Signals and Systems 2017 (ICSigSys 2017), Bali, Indonesia, 07-09 November 2017,
+Program Committee Member:  Third International workshop on Wireless and Mobile Sensing Technology in the Future Internet (WMSTFI 2017), in conjunction with the 14th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2017), Leuven, Belgium on July 24-26, 2017
+Program Committee Member:  The 3rd IEEE International Conference on Smart Data (SmartData-2017), 21-23 Jun, Exeter, UK
+Program Committee Member:  The 12th International Conference on Green, Pervasive and Cloud Computing (GPC-2017), Amalfi Coast, Italy, May 11-13, 2017
+Program Committee Member:  The 3rd IEEE International Conference on Smart Computing (IEEE SmartCom-2017), 29-31 May 2017, Hong Kong, China
+Program Committee Member:  International Workshop on Artificially Intelligent Smart SocieTies (AIST 2017) 
+Program Committee Member:   2nd International conference on Intelligent Information Technologies (IEEE ICIIT 2017), CEG, India, Dec 20-22, 2017
+Organizing Committee Member: The sixth edition of International Conference on Advances in Computing, Communications and Informatics (IEEE ICACCI’17), Manipal, Karnataka, India during Sept. 13-16, 2017
+Program Committee Member: The 3rd IEEE International Conference on Smart Computing (SMARTCOMP 2017), 29-31 May 2017, Hong Kong, China
+Program Committee Member:   The 9th International Symposium on Cyberspace Safety and Security (IEEE CSS 2017), Xian, China, October 23-25.
+Program Committee Member:  The First International workshop on Wireless Sensor-Vehicular Networks and Road Safety (WSVNRS 2017), KSA
+Program Committee Member: The International Conference on Advances in Computing, Communications and Informatics (IEEE ICACCI 2017), Sep 13, 2017 – Sep 16, 2017, Manipal, India
+Program Committee Member: The Second International Symposium on Advances in Applied Informatics (SAI’17), Manipal, Karnataka, India
+Program Committee Member: The IEEE Machine Learning and Metaheuristics Techniques and Applications for Dependable Distributed Systems (MADS’17), November 6-10, 2017, Orlando, Florida, USA
+Program Committee Member:  The Eleventh International Conference on Advanced Engineering Computing and Applications in Sciences (ADVCOMP 2017), November 12 – 16, 2017 – Barcelona, Spain
+Program Committee Member:  The 19th International Conference On Computer and Information Technology (IEEE ICCIT 2017), December 22-24, 2017, Dhaka, Bangladesh
+Program Committee Member: The 3rd International Conference on Control, Electronics, Renewable Energy, and Communications 2017 (ICCEREC 2017), Yogyakarta, Indonesia, 26-28 September 2017.
+Program Committee Member: IEEE ICNP 2017 Workshop on Approaches, Analyses, and Performance Issues in Virtualized Environments and Software Defined Networking, October 10-13, Toronto, Canada
+Program Committee Member: The 40th Annual IEEE Computer Software and Applications Conference (COMPSAC 2016), Atlanta, Georgia, USA, June 10-14, 2016
+Program Committee Member: IEEE CCN-CPS’2016 (IPCCC 2016 first International workshop on Communication, Computing, and Networking in Cyber Physical Systems, Las Vegas, Nevada, USA, Dec 9- Dec 11, 2016
+Program Committee Member:   The 9th International Symposium on Cyberspace Safety and Security (CSS 2017), 14-16 Decembers 2017, Granada, Spain
+Program Committee Member: The 16th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2016), Granada, Spain, December 14-16, 2016, Track: Service Dependability and Security in Distributed and Parallel Systems
+Program Committee Member: IEEE Global Communications Conference (GlobeCom), 4-8 December 2016, Washington DC, USA
+Program Committee Member: The International Conference on Wireless Networks and Mobile Communications  (WINCOM’17), Fez, Morocco, Oct 26, 2016 – Oct 29, 2016
+Program Committee Member: The 5th IEEE International Conference on Communication, Networks and Satellite (IEEE COMNETSAT 2016), Bandung, Indonesia, 10-12 December 2015 
+Program Committee Member: 12th International Wireless Communications & Mobile Computing Conference: Wireless Networking Symposium (IWCMC 2016), Cyprus, Paphos, Sep 5-9, 2016
+Program Committee Member: The 2nd IEEE International Symposium on Nanoelectronic and Information Systems (IEEE-iNIS), December 19-21, 2016 in Gwalior, India
+Program Committee Member: IEEE Cybersecurity and Cyberforensics Conference (CCC 2016), Amman/Jordan, at 26th-28th July 2016 (International Program Committee Member)
+Program Committee Member: The 1st IEEE International Workshop on Log Analytics For Cyber Intelligence (LACI 2016), Atlanta, Georgia, USA, June 10-14, 2016
+Program Committee Member: The IEEE International Conference on Communications (IEEE ICC), May 23-May 27, 2016, Kuala Lumpur, Malaysia, Track: Mobile and Wireless Networking Symposium (ICC’16 MWN)
+IEEE International Conference on Big Data and Smart City, Muscat, Oman, Mar 15, 2016 – Mar 16, 2016
+Program Committee Member: The 5th International Conference on Computational Social Networks (CSoNet 2016), Aug 2-4, Viet Nam: Special Session on Complex Network for Sustainability (SSCNS 2016)
+Program Committee Member: IEEE International Conference on Communications (IEEE ICC), May 23-May 27, 2016, Kuala Lumpur, Malaysia: Track: Ad-hoc and Sensor Networking Symposium (AHSNS)
+Program Committee Member: The 13th International Conference on Mobile Systems and Pervasive Computing, (MobiSPC) will be held on August 15-18, 2016, Montreal, Quebec, Canada
+Program Committee Member: International Workshop on Wireless and Mobile Sensing Technology in the Future Internet (WMSTFI 2016), Montreal, Canada, Aug. 15-18, Montreal, Canada
+Program Committee Member: First International workshop on Wireless Sensor-Vehicular Networks and Road Safety, Montreal, Canada, 2016 (WSVNRS 2016), August 17-20, 2015, Belfort, France
+Program Committee Member: The 19th International Conference on Computer and Information Technology (ICCIT’16), December 18-20, Dhaka, Bangladesh
+Program Committee Member: The Third International Symposium on Networks, Computers and Communications (ISNCC 2016), Hammamet, Tunisia, May 11-13, 2016.
+Program Committee Member: International Conference on Innovations in Science, Engineering and Technology 2016 (ICISET 2016),Chittagong, Bangladesh, Oct 28-29, 2016
+Program Committee Member:  The 36th 2015 IEEE Sarnoff Symposium (IEEE Sarnoff 2015), September 20-22, 2015, Newark, New Jersey, USA.
+Program Committee Member:  The 2nd Asia-Pacific World Congress on Computer Science and Engineering 2015 (APWConCSE 2015) in Fiji on 2nd-4th December 2015.
+Program Committee Member:  The 15th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2015).
+Program Committee Member:  Top 10 Challenges Selection Technical Committee, The 2015 IEEE International Conference on Scalable Computing and Communications (IEEE ScalCom2015).
+Program Committee Member:  The 18th International Conference on Computer and Information Technology (ICCIT’15)
+Program Committee Member:  2nd Asia-Pacific World Congress on Computing Science (APWCCS 2015) in Shangri-La Fijian Resort, Fiji on 2nd – 4th of December 2015.
+Program Committee Member:  The 3rd IEEE Global Conference on Signal & Information Processing (GlobalSIP), Orlando, Florida, USA, December 14-16, 2015.
+Symposium on Signal and Information Processing for Software-Defined Ecosystems, and Green Computing
+Program Committee Member:  The 11th International Wireless Communications & Mobile Computing Conference (IWCMC 2015), August 24-27, 2015. Wireless Networking Symposium
+Program Committee Member:  The 12th IEEE International Conference on Advanced and Trusted Computing (ATC 2015) will be held in Beijing, China during August 10-14, 2015. Track: Privacy Preservation in the Internet of Things
+Program Committee Member:  International Symposium On Nanoelectronic And Information Systems (INIS 2015) Dec 21-23, 2015 @Indore, India; Track: Hardware/Software for Internet of Things (IOT)
+Program Committee Member:  The 2015 International Conference on Computing and Network Communications (CoCoNet’15), December 16-19, 2015, Trivandrum, Kerala, India.
+Program Committee Member:  IEEE Global Communications Conference (IEEE GLOBECOM 2015), 6-10 December 2015, San Diego, CA, USA
+Program Committee Member:  The Eighth International Conference on Contemporary Computing (IC3 2015), Noida, India, August 20-22, 2015
+Program Committee Member:  International Workshop on Big Data and Cloud Computing for Future Sensor Networks (FSN 2015), August 17-20, 2015, Belfort, France
+Program Committee Member:  International workshop on Wireless Sensor-Vehicular Networks and Road Safety (WSVNRS 2015)
+Program Committee Member:  International Workshop on Wireless and Mobile Sensing Technology in the Future Internet, August 17-20, 2015, Belfort, France (WMSTFI 2015)
+Program Committee Member:  The 16th International Conference on Collaboration Technologies and Systems, (CTS 2015)
+Program Committee Member:  International Workshop on Network Surveillance and Intruder Detection Technologies (NetSID 2015)
+Program Committee Member:  10th IEEE International Workshop on Security, Trust, and Privacy for Software Applications (STPSA 2015)
+Program Committee Member:  The IEEE International Conference on Communications (ICC 2015), London, UK, 8-12 June 2015.
+Program Committee Member:  The 12th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2015); Track: Mobile Social Networking Track), August 17-20, 2015, Belfort, France
+Program Committee Member:  The 10th International Conference on Future Networks and Communications (FNC 2015), August 17-20, 2015, Belfort, France
+Program Committee Member:  The Proceedings of IEEE TENSYPM 2015, Ahmedabad, India, 13-15, Nov. 2015
+Program Committee Member:  The 21th IEEE Pacific Rim International Symposium onDependable Computing (PRDC 2015), Zhangjiajie, China.
+Program Committee Member:  First International workshop on Wireless Sensor-Vehicular Networks and Road Safety (WSVNRS 2015)
+Program Committee Member:  First International workshop on Wireless and Mobile Sensing Technology in the Future Internet (WMSTFI 2015), August 17-20, 2015, Belfort, France.
+Program Committee Member:  The 3rd International Conference on Big Data and Smart City (BDSC 2016), Oman, 14-15 March 2016, Oman.
+Program Committee Member:  IEEE International Symposium on Signal Processing and Information Technology (ISSPIT 2014), Dec. 15-17, 2014, India.
+Program Committee Member:  International Conference on Contemporary Computing (IC3 2014), India
+Program Committee Member:  The 11th International Conference on Mobile Systems and  Pervasive Computing (MobiSPC 2014), August 17-20, 2014, Niagara Falls, Ontario, Canada.
+Program Committee Member:  The 2014 IEEE Global Communications Conference(IEEE GlobeCom 2014)
+Program Committee Member:  International Workshop on Network Surveillance and Intruder Detection Technologies (NetSID 2014), in conjunction with EUSPN 2014, September 22-25, 2014, Nova Scotia, Canada
+Program Committee Member:  The 2014 IEEE GLOBECOM – Ad Hoc and Sensor Networking Symposium (AHSN), Austin, Texas, USA
+Program Committee Member:  The First International Workshop on Mobile and Social Computing in conjunction with U-Science 2014 (MoSCom 2014), Dalian, China, 24-27 August 2014
+Program Committee Member:  The International Wireless Communications and Mobile Computing Conference (IWCMC 2014)
+Program Committee Member:  IEEE International Conference on Communications (ICC’14) Ad Hoc and Sensor Networking Symposium (AHSN), Sidney, Australia, June 2014.
+Program Committee Member:  The 6th International Conference on Contemporary Computing (IC3), India, 2013.
+Program Committee Member:  The 2013 International Symposium on Sensor-Cloud Systems (SCS-13), Dec. 11-13, 2013 Dalian, China (in conjunction with 9th International Conference on Mobile Ad-hoc and Sensor Networks (MSN 2013)
+KEYNOTES/ INVITED TALKS/PRESENTATIONS
+Keynote2017 |  IEEE ISPA 2017 / IEEE IUCC 2017 / SpaCCS 2017 Joint KeynoteTracking Ubiquitous Radio Signal Activities: Sensing and Security Application Perspectives
+Invited talks/Presentation2018 |  University of Dhaka, BangladeshLeveraging Wireless Signals for Promising Security Applications2018 |  Monash University, MalaysiaLeveraging Wireless Signals for Promising Security Applications2018 |  Malaysia University Pahang, MalaysiaUtilizing Ubiquitous Signals for Security Applications2018 |  University of Dhaka, BangladeshLeveraging Wireless Signals for Promising Security Applications2017 | Guangzhou University, Guangzhou, ChinaWireless Radios as Sensors Challenges and Opportunities ahead in Sensing Applications2017 | Beihang University, Beijing, ChinaWireless Radios as Sensors Challenges and Opportunities ahead in Sensing Applications2017 |  IEEE GLOBECOM 2017, SingaporeContent-Centric Event-Insensitive Big Data Reduction in Internet of Things2017 |  IEEE NAS 2017, Shenzhen, ChinaPrivacy-Protected Data Collection in Wireless Medical Sensor Networks2017 |  IEEE EUC 2017, Guangzhou, ChinaA Survey on Deep Learning in Big Data2017 |  Springer DependSys 2017, Guangzhou, ChinaA Framework for Preventing the Exploitation of IoT Smart Toys for Reconnaissance and Exfiltration2017 |  ACM ICMSS 2017, Wuhan, ChinaMaintaining the Balance between Privacy and Data Integrity in Internet of Things2017 |  ACM ICMSS 2017  DependSys 2017, Guangzhou, ChinaMaintaining the Balance between Privacy and Data Integrity in Internet of Things2017 | Real World Cryptography Conference 2017 (RWC 2017), New York, USACryptographic technical highlights2016 | 37th IEEE Sarnoff Symposium 2016, Newark, New Jersey, USA2016 | 37th IEEE Sarnoff Symposium 2016, Newark, New Jersey, USATrustworthy and Protected Data Collection for Event Detection Using NetworkedSensing Systems2016 | GENI NICE 2015, in conjunction with IEEE ICNP, 2015, San Francisco, CA, USAA 3D Mobile Surveillance Networks for Public Safety2016 | DependSys 2016 (Springer), Zhangjiajie, China, November 16-18, 2016Improving the Localization Probability and Decreasing Communication Cost forMobile Users2016 | SpaCCS 2016 (Springer), Zhangjiajie, China, November 16-18, 20162015 | ICA3PP 2015 (Springer), Zhangjiajie, China, November 18-20, 20152015 | IEEE PRDC 2015, Zhangjiajie, Nov 18-20, 20152015 | DependSys 2015, Zhangjiajie, China, November 18-20, 20152015 | IEEE PRDC 2014, Singapore, Nov 19-21, 20142015 | IEEE HPCC 2013, Zhangjiajie, China, November 13-15, 20132015 | IEEE WNM-2013, Melbourne, Australia, 16-18 July, 20132015 | IEEE/IFIP IEEE EUC-13, Zhangjiajie, China, November 13-15, 20132013 | IEEE CSS 2013, Zhangjiajie, China, November 13-15, 20132013 | IEEE TrustCom 2013, Melbourne, Australia, 16-18 July, 20132013 | IEEE IEEE ISPA 2013, Melbourne, Australia, 16-18 July, 2013Local Monitoring and Maintenance for Operational Wireless Sensor Networks2013 | IEEE WNM-2013, Melbourne, Australia, 16-18 July, 2013HIWL: An Unsupervised Learning Algorithm for Indoor Wireless Localization2013 | IEEE DCOSS 2012, May 16 – 18, 2012, Hangzhou, China2012 | IEEE CGC 2012, 01 Nov – 03 Nov 2012, Xiangtan, Hunan, China2011 | IDF 2011, Aug. 1-4, 2011, Shenzhen, ChinaBackup Sensor Placement for WSN-Based SHM system2011 | IEEE TrustCom-11, Changsha, China, November 16-18, 20112011 | IEEE CESSS 2011, Changsha, China, November 16-18, 20112011 | IEEE/IFIP EUC 2011, Changsha, China, November 16-18, 20112011 | IEEE FCST-11, Changsha, China, November 16-18, 20112011 | IEEE ICPADS 2009, Dec. 8-11, Shenzhen, ChinaPolygon-Based Tracking Framework in Surveillance Wireless Sensor Networks
+PH.D. THESIS EXTERNAL EXAMINER
+Thesis
+Monash University, Australia, Thesis title: Content Sharing using Smart Mobile Devices in Irregular Meeting Places
+Deakin University, Australia, 2016, Thesis title: Combating Cyber Attacks in Cloud Computing Using Machine Learning Techniques, 2016
+University of New South Wales, Australia, 2016, Secure Session Initiation Protocol Solutions for Mobile Ad Hoc Network, 2016
+University of South Australia, 2016, Analyzing and Detecting Twitter Spam, 2016
+Deakin University, Australia, 2016, Deficient Data Classification with Fuzzy Learning, 2016
+Anna University, Chennai, India
+MANUSCRIPT REVIEWER
+For Journals
+Network: IEEE Network Magazine
+TDSC: IEEE Transactions on Dependable and Secure Computing
+TOSN: IEEE Transactions on Sensor Networks
+TII: IEEE Transactions on Industrial Informatics
+TCC: IEEE Transactions on Cloud Computing
+TSC: IEEE Transactions on Service Computing
+TBD: IEEE Transactions on Big Data
+TC: IEEE Transactions on Computers
+TR: IEEE Transactions on Reliability
+TPDS: IEEE Transactions on Parallel and Distributed Systems
+TSUSC: Transactions on Sustainable Computing
+TSMCS: IEEE Transactions on Systems, Man, and Cybernetics: Systems
+IJDSN: International Journal of Distributed Sensor Networks
+WINE: Wireless Networks
+PIEEE: Proceedings of IEEE
+PC: Parallel Computing
+JNCA: Journal of Network and Computer Applications
+SCN: Security and Communication Networks
+KSII TIIS:  KSII Transactions on Internet and Information Systems
+Sensor Journal: IEEE Sensor Journal
+FGCS: Future Generation Computer System
+JCST: Journal of Computer Science and Technology
+AHSWN: Journal of Adhoc & Sensor Wireless Networks
+IJAHUC: International Journal of Ad Hoc and Ubiquitous Computing
+SHM: Structural Health Monitoring
+JPDC: Journal of Parallel and Distributed Computing
+IJCNDS: International Journal of Communication Networks and Distributed Systems
+JCS: International Journal of Communication Systems
+THMS: IEEE Transactions on Human-Machine Systems (sub-reviewer)
+IJES: International Journal of Embedded Systems (Invited)
+IJITDM: International Journal of Information Technology and Decision Making
+IEEE CL:  IEEE Communications Letters
+MICPRO: Microprocessors and Microsystems
+CAEE: Computer and Electrical Engineering
+Sensor: Sensor Journal
+ACCESS: IEEE ACCESS Journal
+Neuro: Neurocomputing Journal
+CEE: Computers and Electrical Engineering
+Cluster Computing
+Parallel Computing
+SMCS: IEEE Transactions on Systems, Man and Cybernetics: Systems
+C&S: Computers & Security
+International Journal of Electronic Government
+IJBIDM: Int. J. of Business Intelligence and Data Mining
+IETE Technical Review
+MTP: Multimedia Tools and Applications
+JOEUC: Journal of Organizational and End User Computing
+CEMAG: IEEE Consumer Electronics Magazine
+ComMag: IEEE Communication Magazine
+IEEE IoT J: IEEE Internet of Things Journal
+IEEE TVT: IEEE Transactions on Vehicular Technology
+Sustainable Computing, Informatics and Systems
+IEEE Transactions on Vehicular Technology
+IEEE Transactions on Reliability
+International Journal of Computers and Applications
+ACM Transactions on Cyber-Physical Systems
+Inderscience Submissions
+Bentham Science Publishers
+For Conferences
+SoftCOM 2013: The 21st International Conference on Software, Telecommunications and Computer Networks
+HPCC 2012: The 14th IEEE International Conference on High Performance Computing and Communications
+FCST 2012: The 7th International Conference on Frontier of Computer Science and Technology
+ICPADS 2011: IEEE 17th International Conference on Parallel and Distributed Systems
+ICC 2012: The 2014 IEEE International Conference on Communications (ICC)
+ICPP 2012: The International Conference on Parallel Processing
+ICDCS 2011: The 31st Int’l Conference on Distributed Computing Systems
+ICNP 2011: The nineteenth IEEE International Conference on Network Protocols
+PERCOM 2011: The 9th Annual IEEE International Conference on Pervasive Computing and Communications
+CHINACOM 2011: The 6th International ICST Conference on Communications and Networking in China
+WCNC 2011: The IEEE Wireless Communications and Networking Conference
+ICESS 2011: The 8th IEEE International Conference on Embedded Software and Systems
+RTSS 2011: The 32nd IEEE Real-Time Systems Symposium
+TrustCom 2011: The 10th IEEE International Conference on Trust, Security and Privacy in Computing and Communications
+SENSORS 2011: IEEE SENSORS
+WSN 2011: International Conference on Wireless Sensor Network
+IDF 2011: The 6th Beijing-Hong Kong (BJ-HK) International Doctoral Forum
+CONSULTING
+ International Research Project ConsultantInformation Science Department, College of Computer and Information Sciences, King Saud University.
+ Research Project ConsultantSchool of Computer and Software Engineering, Malaysia University Pahang

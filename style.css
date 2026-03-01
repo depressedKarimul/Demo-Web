@@ -761,3 +761,106 @@ footer {
         font-size: 2.5rem;
     }
 }
+
+
+/* === Light Theme Overrides === */
+[data-theme="light"] {
+    --bg-color: #f8fafc;
+    --bg-alt: #ffffff;
+    --acc-color: #0ea5e9;
+    --text-main: #0f172a;
+    --text-sec: #475569;
+    --glass-bg: rgba(255, 255, 255, 0.9);
+    --border-color: rgba(14, 165, 233, 0.2);
+}
+
+[data-theme="light"] .hero-glass {
+    background: linear-gradient(135deg, rgba(14, 165, 233, 0.05), rgba(255, 255, 255, 0.8));
+    border-color: rgba(14, 165, 233, 0.2);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="light"] .card, 
+[data-theme="light"] .teaching-item, 
+[data-theme="light"] .contact-form,
+[data-theme="light"] .pub-item {
+    background: #ffffff;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+    border-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .primary-btn {
+    color: #ffffff;
+}
+
+[data-theme="light"] footer {
+    background: #f1f5f9;
+}
+
+/* === Theme Toggle Button === */
+.nav-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.theme-toggle {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    color: var(--text-main);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    outline: none;
+}
+
+.theme-toggle:hover {
+    background: rgba(14, 165, 233, 0.1);
+    color: var(--acc-color);
+    transform: rotate(15deg);
+}
+
+.theme-toggle svg {
+    width: 20px;
+    height: 20px;
+}
+
+.moon-icon { display: block; }
+.sun-icon { display: none; }
+
+[data-theme="light"] .moon-icon { display: none; }
+[data-theme="light"] .sun-icon { display: block; }
+
+/* === Animations === */
+.fade-in {
+    opacity: 0;
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+.slide-up {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+.slide-left {
+    opacity: 0;
+    transform: translateX(40px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+.slide-right {
+    opacity: 0;
+    transform: translateX(-40px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.fade-in.is-visible,
+.slide-up.is-visible,
+.slide-left.is-visible,
+.slide-right.is-visible {
+    opacity: 1;
+    transform: translate(0, 0);
+}
